@@ -1,0 +1,250 @@
+package Portal_Test;
+
+import org.testng.annotations.Test;
+
+import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
+
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+import org.apache.log4j.xml.DOMConfigurator;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import com.portal.test_cases.Check_employees;
+import com.portal.test_cases.check_email;
+
+
+
+public class MainTests {
+	public String checkURL() {
+		return driver.getCurrentUrl();
+	}
+	
+	static final Logger logger = LogManager.getLogger(MainTests.class.getName());
+	WebDriver driver;
+	Scanner getNewInput = new Scanner(System.in);
+	@BeforeTest
+	public void lunchApp() {
+		
+		DOMConfigurator.configure("log4j.xml");
+		logger.info("# # # # # # # # # # # # # # # # # # # # # # # # # # # ");
+		logger.info("TEST Has Started");
+		logger.info("Open Web Application");
+		
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\arkan\\Downloads\\chromedriver.exe");
+		driver=new ChromeDriver();
+		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+		driver.navigate().to("http://192.168.2.184/envintory-qa/Login");
+		driver.manage().window().maximize();  
+	}
+	public void portal_login() {
+		check_email.get_email_input(driver).sendKeys("qa1");
+		check_email.get_password_input(driver).sendKeys("qa1");
+		check_email.press_login_btn(driver).click();
+	}
+	
+	@Test
+	public void reset_password() throws InterruptedException {
+		logger.info("----------- \t	Employee Rest Password");
+		portal_login();
+		Check_employees.Reset_Password(driver).get(0).click();
+		Thread.sleep(3000);
+		if(Check_employees.isAlertPresent(driver)) {
+			String alertTxt = Check_employees.Deactive_alertMessage(driver);
+			System.out.println("Alert Message: "+ alertTxt);
+			Thread.sleep(3000);
+			logger.info(alertTxt);
+			alertTxt = Check_employees.Deactive_alertMessage(driver);
+			System.out.println("Alert Message: "+ alertTxt);
+			Thread.sleep(3000);
+			logger.info(alertTxt);
+		}
+	}
+	/*
+	@Test
+	public void employee_assets() throws InterruptedException {
+		logger.info("----------- \t	Employee Assets");
+		portal_login();
+		Check_employees.go_to_AllEmployees(driver).click();
+		System.out.println("Size: " + Check_employees.Employee_Assets_btn(driver).size());
+		Check_employees.Employee_Assets_btn(driver).get(0).click();
+		Thread.sleep(3000);
+		JavascriptExecutor js = (JavascriptExecutor)driver;  
+	      js.executeScript("scrollBy(0, 7000)");  
+	      Thread.sleep(2000);
+		Check_employees.Add_Headset(driver).click();
+		
+			if(!Check_employees.Select_Headset(driver).getText().toString().equals("   ")) {
+				System.out.println(Check_employees.Select_Headset(driver).getText());
+				Check_employees.Add_Headset_btn(driver).click();
+			}else {
+				System.out.println("Its null there are no items");
+				Actions action = new Actions(driver);
+				action.sendKeys(Keys.ESCAPE).perform();
+			}
+		
+		Thread.sleep(3000);
+		 
+	      js.executeScript("scrollBy(7000, 12000)");  
+	      Thread.sleep(3000);
+	     // Check_employees.go_to_AllEmployees(driver).click();
+	}*/
+	/*@Test
+	public void deactive_employee() throws InterruptedException {
+		logger.info("----------- \t	Deactivate an Employee");
+		portal_login();
+		Check_employees.go_to_AllEmployees(driver).click();
+		int sizeOfElements = Check_employees.Deactive_btn(driver).size();
+		System.out.println("Size of Elements: "+ sizeOfElements);
+			Check_employees.Deactive_btn(driver).get(2).click();  
+		Thread.sleep(3000);
+		String alertTxt = Check_employees.Deactive_alertMessage(driver);
+		System.out.println(alertTxt);
+		if(Check_employees.isAlertPresent(driver)) {
+			alertTxt = Check_employees.Deactive_alertMessage(driver);
+			//cancel dismiss
+			System.out.println("Alert Message: "+ alertTxt);
+ 		}
+		Thread.sleep(3000); 
+		Check_employees.CheckList_for_Leaving(driver).click();
+		if(Check_employees.isAlertPresent(driver)) {
+			alertTxt = Check_employees.Deactive_alertMessage(driver);
+			System.out.println("Alert Message: "+ alertTxt);
+		}
+	} */
+	
+	/*@Test
+	public void add_employee() throws InterruptedException {
+		logger.info("----------- \t	Adding new Employee");
+		portal_login();
+		//Check_employees.go_to_AllEmployees(driver).click();
+		//make login first -----missing
+		//Add button to add new employee
+		Check_employees.add_btn(driver).click();
+		//Add name
+		Check_employees.name_input(driver).sendKeys("Arkan Jbali");
+		//ID number  --- check if already exist
+		Check_employees.IDNo_input(driver).sendKeys("21312");
+		//Start Date ---- make validation
+		Check_employees.start_date(driver).sendKeys(Check_employees.getTheCurrentDate());
+		//Pick Location
+		Check_employees.pick_location(driver).click();
+		//Pick Group
+		Check_employees.pick_group(driver).click();
+		//Pick Manager ID ---error
+		Check_employees.pick_manager_id(driver).click();
+		//Job Title
+		Check_employees.job_title(driver).sendKeys("QA Tester");
+		//Active status --- error
+		Check_employees.isActive(driver).click();
+		Thread.sleep(3000);
+		//Done
+		Check_employees.Done_Option(driver).click();
+		
+		Thread.sleep(3000);
+		String alertTxt = Check_employees.alertMessage(driver);
+		logger.info(alertTxt);
+		
+		 	while(Check_employees.isElementPresent(driver)) {
+		 		
+		 		if(Check_employees.isAlertPresent(driver)) {
+					alertTxt = Check_employees.alertMessage(driver);
+		 		}
+		 		
+			if((alertTxt.equals("Already Exists!"))) {
+				logger.info("ID Number Already exists");
+				Check_employees.IDNo_input(driver).clear();
+				System.out.println("Enter new EmployeeID: ");
+				Check_employees.IDNo_input(driver).sendKeys(getNewInput.nextLine());
+				Check_employees.Done_Option(driver).click();
+				logger.info("New Employee added.");
+				Thread.sleep(1000);
+			
+			}
+			
+			else if((alertTxt.equals("The name, ID number, start date, location and manager_id must be set"))) {
+				logger.info("Something missing!!!!");
+				if((Check_employees.name_input(driver).getText().equals(null))) {
+					System.out.println("Enter name: ");
+						Check_employees.name_input(driver).sendKeys(getNewInput.nextLine());
+				}
+				else if(Check_employees.IDNo_input(driver).getText().equals(null)) {
+					System.out.println("Enter new EmployeeID 2: ");
+						Check_employees.IDNo_input(driver).sendKeys(getNewInput.nextLine());
+				}
+				else if(Check_employees.start_date(driver).getText().equals(null)) {
+					//get the current date 
+						Check_employees.start_date(driver).sendKeys(Check_employees.getTheCurrentDate());
+				}
+				else if(Check_employees.pick_location(driver).getText().equals(null)) {
+						Check_employees.pick_location(driver).click();
+				}
+				else if(Check_employees.pick_manager_id(driver).getText().equals(null)) {
+						Check_employees.pick_manager_id(driver).click();
+				}
+			}
+			alertTxt ="";
+			Thread.sleep(1000);
+		 	}
+		 	
+	} */
+	
+	/*
+	@Test
+	public void search_employee() throws InterruptedException {
+		logger.info("----------- \t Check Search an employee");
+		check_email.get_email_input(driver).sendKeys("qa1");
+		check_email.get_password_input(driver).sendKeys("qa1");
+		check_email.press_login_btn(driver).click();
+		Thread.sleep(3000);
+		Check_employees.search_emp(driver).sendKeys("Arkan");
+		Check_employees.search_emp(driver).sendKeys(Keys.RETURN);
+	}
+	@Test
+	public void check_login_by_un() throws InterruptedException {
+		logger.info("----------- \t Check Login Using UserName");
+		check_email.get_email_input(driver).sendKeys("qa1");
+		check_email.get_password_input(driver).sendKeys("qa1");
+		check_email.press_login_btn(driver).click();
+		Thread.sleep(3000);
+		if(!(checkURL().equals("http://192.168.2.184/envintory-qa/Login"))) {
+			driver.navigate().back();
+		}
+		//check_email.get_email_input(driver).clear();
+		//check_email.get_password_input(driver).clear();
+		check_email.press_logout_btn(driver).click();
+		
+	}
+	@Test
+	public void check_login_by_email() throws InterruptedException {
+		logger.info("----------- \t Check Login Using Email");
+		check_email.get_email_input(driver).sendKeys("arkan.1997@gmail.com");
+		check_email.get_password_input(driver).sendKeys("qa1");
+		check_email.press_login_btn(driver).click();
+		Thread.sleep(3000);
+		if(!(checkURL().equals("http://192.168.2.184/envintory-qa/Login"))) {
+			driver.navigate().back();
+			logger.info("Login fail using Email");
+		}	
+		check_email.get_email_input(driver).clear();
+		check_email.get_password_input(driver).clear();
+	}
+	*/
+	@AfterTest
+	public void terminatetest() throws InterruptedException {
+
+		boolean hasQuit = driver.toString().contains("(null)");
+		if(!hasQuit) {
+			logger.info("TEST PASSED");
+			System.out.println("its closed");
+			driver.close();	
+		}else {
+			logger.error("TEST FAILED. NEEDS INVESTIGATION");
+			Thread.sleep(5000);
+			driver.close();	
+     }
+			logger.info("# # # # # # # # # # # # # # # # # # # # # # # # # # # \n");
+	 }
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21682" started-at="2019-09-04T13:53:24Z" finished-at="2019-09-04T13:53:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21682" started-at="2019-09-04T13:53:24Z" finished-at="2019-09-04T13:53:46Z">
+      <class name="Portal_Test.MainTests">
+        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="lunchApp" is-config="true" duration-ms="11560" started-at="2019-09-04T16:53:24Z" finished-at="2019-09-04T16:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApp -->
+        <test-method status="PASS" signature="reset_password()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="reset_password" duration-ms="10034" started-at="2019-09-04T16:53:36Z" finished-at="2019-09-04T16:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reset_password -->
+        <test-method status="PASS" signature="terminatetest()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="terminatetest" is-config="true" duration-ms="73" started-at="2019-09-04T16:53:46Z" finished-at="2019-09-04T16:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminatetest -->
+      </class> <!-- Portal_Test.MainTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
