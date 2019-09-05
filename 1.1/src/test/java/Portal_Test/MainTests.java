@@ -1,6 +1,7 @@
 package Portal_Test;
 
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
@@ -12,6 +13,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
+
+import com.portal.test_cases.Check_assets;
 import com.portal.test_cases.Check_employees;
 import com.portal.test_cases.check_email;
 
@@ -46,6 +49,76 @@ public class MainTests {
 	}
 	
 	@Test
+	public void Add_newAsset_Type() throws InterruptedException {
+		logger.info("----------- \t	Add New Asset Type");
+		portal_login();
+		Check_assets.Go_to_Assets(driver).click();
+		Thread.sleep(3000);
+		logger.info("	Adding new Asset Type");
+		Check_assets.new_Asset_Type(driver).click();
+		Thread.sleep(3000);
+		Check_assets.Add_Asset_Btn(driver).click();
+		Check_assets.type_Input(driver).sendKeys("Internet Camera");
+		Check_assets.type_InputBtn(driver).click();
+		Thread.sleep(3000);
+		
+	}
+	
+	/*
+	@Test
+	public void Add_new_PDF() throws InterruptedException {
+		logger.info("----------- \t	Add New PDF");
+		portal_login();
+		Check_assets.Go_to_Assets(driver).click();
+		Thread.sleep(3000);
+		logger.info("	Adding new PDF Laptop");
+		Check_assets.Add_New_PDF(driver).click();
+		Thread.sleep(3000);
+		Check_assets.Host_Name(driver).sendKeys("TestPDF");
+		Check_assets.ThinkPad_Model(driver).sendKeys("Test ThinkPad");
+		Check_assets.Model(driver).sendKeys("Test Model");
+		Check_assets.Laptop_Property(driver).sendKeys("Black 1TB");
+		Check_assets.Serial_Number(driver).sendKeys("1212312");
+		Check_assets.Status_PDF(driver).sendKeys("New NEW");
+		Check_assets.Date_Of_Purchase_PDF(driver).sendKeys("2019-09-09");
+		Thread.sleep(3000);
+		Check_assets.Save_Btn_PDF(driver).click();
+		Thread.sleep(3000);
+		Check_assets.isAlertPresent(driver);
+		
+	}*/
+	
+	/*@Test
+	public void Add_new_asset() throws InterruptedException {
+		logger.info("----------- \t	Add New Asset");
+		portal_login();
+		Check_assets.Go_to_Assets(driver).click();
+		Thread.sleep(3000);
+		logger.info("	Asset Filtering");
+		Check_assets.Filter_By_Asset(driver).click();
+		Thread.sleep(3000);
+		logger.info("	Adding Asset.....");
+		Check_assets.Add_New_Asset(driver).click();
+		Check_assets.Asset_Type(driver).sendKeys("Docking");
+		Check_assets.Description(driver).sendKeys("123");
+		Check_assets.PTech_tag(driver).sendKeys("9999");
+		Check_assets.Status(driver).sendKeys("New");
+		Check_assets.Invoice_Source(driver).sendKeys("KSP");
+		Check_assets.Date_Of_Purchase(driver).sendKeys("2019-09-09");
+		Check_assets.Invoice_Number(driver).sendKeys("213213");
+		Check_assets.Warranty_PeriodY(driver).sendKeys("2");
+		Check_assets.Warranty_PeriodM(driver).sendKeys("5");
+		Check_assets.Expected_end_date(driver).sendKeys("2019-09-29");
+		Check_assets.Serial_Number(driver).sendKeys("91111111");
+		Thread.sleep(3000);
+		Check_assets.Save_Btn(driver).click();
+		Thread.sleep(2000);
+		if(Check_assets.isAlertPresent(driver)) {
+			
+		}
+		
+	}*/
+	/*@Test
 	public void reset_password() throws InterruptedException {
 		logger.info("----------- \t	Employee Rest Password");
 		portal_login();
@@ -61,7 +134,7 @@ public class MainTests {
 			Thread.sleep(3000);
 			logger.info(alertTxt);
 		}
-	}
+	}*/
 	/*
 	@Test
 	public void employee_assets() throws InterruptedException {

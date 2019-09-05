@@ -1534,3 +1534,81 @@
 2019-09-04 16:53:46  [Portal_Test.MainTests] (main:) TEST PASSED
 2019-09-04 16:53:46  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
+2019-09-05 11:19:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 11:19:16  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 11:19:16  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 11:19:27  [Portal_Test.MainTests] (main:) ----------- 		Asset Filtering
+2019-09-05 11:19:29  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 11:19:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-05 11:19:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 11:19:48  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 11:19:48  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 11:19:59  [Portal_Test.MainTests] (main:) ----------- 		Asset Filtering
+2019-09-05 11:20:05  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 11:20:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-05 11:20:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 11:20:18  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 11:20:18  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 11:20:30  [Portal_Test.MainTests] (main:) ----------- 		Asset Filtering
+2019-09-05 11:20:36  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 11:20:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-05 11:20:49  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 11:20:49  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 11:20:49  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 11:21:00  [Portal_Test.MainTests] (main:) ----------- 		Asset Filtering
+2019-09-05 11:21:07  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 11:21:08  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-05 11:27:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 11:27:03  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 11:27:03  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 11:27:15  [Portal_Test.MainTests] (main:) ----------- 		Asset Filtering
+2019-09-05 11:27:22  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 11:27:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-05 13:20:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 13:20:10  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 13:20:10  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 13:20:22  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-05 13:20:26  [Portal_Test.MainTests] (main:) 	Asset Filtering
+2019-09-05 13:20:29  [Portal_Test.MainTests] (main:) 	Adding Asset.....
+2019-09-05 13:20:36  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 13:20:37  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-05 13:20:49  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 13:20:49  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 13:20:49  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 13:21:00  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-05 13:21:05  [Portal_Test.MainTests] (main:) 	Asset Filtering
+2019-09-05 13:21:20  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 13:21:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-05 13:23:58  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 13:23:58  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 13:23:58  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 13:24:10  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-05 13:24:14  [Portal_Test.MainTests] (main:) 	Asset Filtering
+2019-09-05 13:24:17  [Portal_Test.MainTests] (main:) 	Adding Asset.....
+2019-09-05 13:24:25  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 13:24:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-05 13:24:47  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 13:24:47  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 13:24:47  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 13:24:59  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-05 13:25:03  [Portal_Test.MainTests] (main:) 	Asset Filtering
+2019-09-05 13:25:06  [Portal_Test.MainTests] (main:) 	Adding Asset.....
+2019-09-05 13:25:14  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 13:25:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-05 14:05:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 14:05:20  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 14:05:20  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 14:05:31  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
+2019-09-05 14:05:35  [Portal_Test.MainTests] (main:) 	Adding new Asset Type
+2019-09-05 14:05:42  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 14:05:42  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
