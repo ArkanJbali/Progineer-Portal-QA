@@ -14,6 +14,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
+import com.portal.test_cases.Check_Groups;
 import com.portal.test_cases.Check_assets;
 import com.portal.test_cases.Check_employees;
 import com.portal.test_cases.check_email;
@@ -49,6 +50,24 @@ public class MainTests {
 	}
 	
 	@Test
+	public void Add_New_Group() throws InterruptedException {
+		logger.info("----------- \t	Add New Group");
+		portal_login();
+		Check_Groups.go_to_Groups(driver).click();
+		Thread.sleep(3000);
+		logger.info("----------- \t	Adding New Group");
+		Check_Groups.Add_new_Group_Btn(driver).click();
+		Check_Groups.Group_Input(driver).sendKeys("Test Group");
+		Check_Groups.Save_Btn(driver).click();
+		Thread.sleep(3000);
+		logger.info("----------- \t	Add Empty Group");
+		Check_Groups.Add_new_Group_Btn(driver).click();
+		Check_Groups.Group_Input(driver).sendKeys(" ");
+		Check_Groups.Save_Btn(driver).click();
+		Thread.sleep(3000);
+	}
+	
+	/*@Test
 	public void Add_newAsset_Type() throws InterruptedException {
 		logger.info("----------- \t	Add New Asset Type");
 		portal_login();
@@ -61,8 +80,7 @@ public class MainTests {
 		Check_assets.type_Input(driver).sendKeys("Internet Camera");
 		Check_assets.type_InputBtn(driver).click();
 		Thread.sleep(3000);
-		
-	}
+	}*/
 	
 	/*
 	@Test

@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21682" started-at="2019-09-04T13:53:24Z" finished-at="2019-09-04T13:53:46Z">
+  <suite name="Default suite" duration-ms="21904" started-at="2019-09-05T11:51:46Z" finished-at="2019-09-05T11:52:08Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21682" started-at="2019-09-04T13:53:24Z" finished-at="2019-09-04T13:53:46Z">
+    <test name="Default test" duration-ms="21904" started-at="2019-09-05T11:51:46Z" finished-at="2019-09-05T11:52:08Z">
       <class name="Portal_Test.MainTests">
-        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="lunchApp" is-config="true" duration-ms="11560" started-at="2019-09-04T16:53:24Z" finished-at="2019-09-04T16:53:36Z">
+        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="lunchApp" is-config="true" duration-ms="11267" started-at="2019-09-05T14:51:46Z" finished-at="2019-09-05T14:51:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lunchApp -->
-        <test-method status="PASS" signature="reset_password()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="reset_password" duration-ms="10034" started-at="2019-09-04T16:53:36Z" finished-at="2019-09-04T16:53:46Z">
+        <test-method status="PASS" signature="Add_New_Group()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="Add_New_Group" duration-ms="10544" started-at="2019-09-05T14:51:58Z" finished-at="2019-09-05T14:52:08Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- reset_password -->
-        <test-method status="PASS" signature="terminatetest()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="terminatetest" is-config="true" duration-ms="73" started-at="2019-09-04T16:53:46Z" finished-at="2019-09-04T16:53:46Z">
+        </test-method> <!-- Add_New_Group -->
+        <test-method status="PASS" signature="terminatetest()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="terminatetest" is-config="true" duration-ms="79" started-at="2019-09-05T14:52:08Z" finished-at="2019-09-05T14:52:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- terminatetest -->

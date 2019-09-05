@@ -6,8 +6,8 @@
       <class name="Portal_Test.MainTests">
         <methods>
           <include name="lunchApp"/>
+          <include name="Add_new_asset"/>
           <include name="terminatetest"/>
-          <include name="reset_password"/>
         </methods>
       </class> <!-- Portal_Test.MainTests -->
     </classes>

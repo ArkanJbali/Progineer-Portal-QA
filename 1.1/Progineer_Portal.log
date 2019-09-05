@@ -1612,3 +1612,30 @@
 2019-09-05 14:05:42  [Portal_Test.MainTests] (main:) TEST PASSED
 2019-09-05 14:05:42  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
+2019-09-05 14:35:28  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 14:35:28  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 14:35:28  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 14:35:40  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-05 14:35:44  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-05 14:35:47  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-05 14:35:50  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 14:35:50  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-05 14:36:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 14:36:23  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 14:36:23  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 14:36:35  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-05 14:36:39  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-05 14:36:42  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-05 14:36:45  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 14:36:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-05 14:51:46  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-05 14:51:46  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-05 14:51:46  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-05 14:51:58  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-05 14:52:01  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-05 14:52:05  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-05 14:52:08  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-05 14:52:08  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
