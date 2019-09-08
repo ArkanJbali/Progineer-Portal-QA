@@ -1639,3 +1639,91 @@
 2019-09-05 14:52:08  [Portal_Test.MainTests] (main:) TEST PASSED
 2019-09-05 14:52:08  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
+2019-09-08 10:40:28  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-08 10:40:28  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-08 10:40:28  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-08 10:40:39  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-08 10:40:43  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-08 10:40:46  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-08 10:40:50  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-08 10:40:50  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-08 10:43:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-08 10:43:15  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-08 10:43:15  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-08 10:43:26  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-08 10:43:30  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-08 10:43:33  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-08 10:43:36  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-08 10:43:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-08 10:46:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-08 10:46:29  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-08 10:46:29  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-08 10:46:40  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-08 10:46:43  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-08 10:46:47  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-08 10:46:53  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
+2019-09-08 10:46:57  [Portal_Test.MainTests] (main:) 	Adding new Asset Type
+2019-09-08 10:47:06  [Portal_Test.MainTests] (main:) ----------- 		Add New PDF
+2019-09-08 10:47:10  [Portal_Test.MainTests] (main:) 	Adding new PDF Laptop
+2019-09-08 10:47:17  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-08 10:47:32  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
+2019-09-08 10:47:47  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-08 10:48:02  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-08 10:48:17  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
+2019-09-08 10:48:32  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
+2019-09-08 10:48:58  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
+2019-09-08 10:49:13  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
+2019-09-08 10:49:24  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-08 10:49:24  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-08 10:59:51  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-08 10:59:51  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-08 10:59:51  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-08 11:00:02  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-08 11:00:05  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-08 11:00:09  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-08 11:00:15  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
+2019-09-08 11:00:19  [Portal_Test.MainTests] (main:) 	Adding new Asset Type
+2019-09-08 11:00:29  [Portal_Test.MainTests] (main:) ----------- 		Add New PDF
+2019-09-08 11:00:32  [Portal_Test.MainTests] (main:) 	Adding new PDF Laptop
+2019-09-08 11:00:39  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-08 11:00:54  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
+2019-09-08 11:01:05  [Portal_Test.MainTests] (main:) Already Exists!
+2019-09-08 11:01:05  [Portal_Test.MainTests] (main:) ID Number Already exists
+2019-09-08 11:01:11  [Portal_Test.MainTests] (main:) New Employee added.
+2019-09-08 11:01:16  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-08 11:01:22  [Portal_Test.MainTests] (main:) Login fail using Email
+2019-09-08 11:01:22  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-08 11:01:29  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
+2019-09-08 11:01:54  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
+2019-09-08 11:02:09  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
+2019-09-08 11:02:24  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
+2019-09-08 11:02:28  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-08 11:02:28  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-08 11:16:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-08 11:16:16  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-08 11:16:16  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-08 11:16:27  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-08 11:16:31  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-08 11:16:34  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-08 11:16:41  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
+2019-09-08 11:16:44  [Portal_Test.MainTests] (main:) 	Adding new Asset Type
+2019-09-08 11:16:54  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-08 11:16:58  [Portal_Test.MainTests] (main:) 	Asset Filtering
+2019-09-08 11:17:01  [Portal_Test.MainTests] (main:) 	Adding Asset.....
+2019-09-08 11:17:11  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
+2019-09-08 11:17:18  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-08 11:17:32  [Portal_Test.MainTests] (main:) Login fail using Email
+2019-09-08 11:17:32  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-08 11:17:39  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
+2019-09-08 11:18:02  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
+2019-09-08 11:18:08  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
+2019-09-08 11:18:23  [Portal_Test.MainTests] (main:) Are you sure you want to reset esmael 's password ?
+2019-09-08 11:18:26  [Portal_Test.MainTests] (main:) Password reset
+2019-09-08 11:18:29  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
+2019-09-08 11:18:33  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-08 11:18:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+

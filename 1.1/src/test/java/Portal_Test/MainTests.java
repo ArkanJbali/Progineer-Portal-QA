@@ -1,7 +1,7 @@
 package Portal_Test;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
+
 
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
@@ -9,8 +9,12 @@ import java.util.concurrent.TimeUnit;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.testng.SkipException;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
@@ -29,7 +33,7 @@ public class MainTests {
 	static final Logger logger = LogManager.getLogger(MainTests.class.getName());
 	WebDriver driver;
 	Scanner getNewInput = new Scanner(System.in);
-	@BeforeTest
+	@BeforeTest(alwaysRun = true)
 	public void lunchApp() {
 		
 		DOMConfigurator.configure("log4j.xml");
@@ -48,6 +52,12 @@ public class MainTests {
 		check_email.get_password_input(driver).sendKeys("qa1");
 		check_email.press_login_btn(driver).click();
 	}
+	public void portal_logout() {
+		check_email.press_logout_btn(driver).click();
+	}
+	private void turnOnImplicitWaits() {
+	    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	}
 	
 	@Test
 	public void Add_New_Group() throws InterruptedException {
@@ -57,17 +67,19 @@ public class MainTests {
 		Thread.sleep(3000);
 		logger.info("----------- \t	Adding New Group");
 		Check_Groups.Add_new_Group_Btn(driver).click();
-		Check_Groups.Group_Input(driver).sendKeys("Test Group");
+		Check_Groups.Group_Input(driver).sendKeys("Test Group3");
 		Check_Groups.Save_Btn(driver).click();
 		Thread.sleep(3000);
 		logger.info("----------- \t	Add Empty Group");
 		Check_Groups.Add_new_Group_Btn(driver).click();
-		Check_Groups.Group_Input(driver).sendKeys(" ");
+		Check_Groups.Group_Input(driver).sendKeys(" 3");
 		Check_Groups.Save_Btn(driver).click();
+		Thread.sleep(3000);
+		portal_logout();
 		Thread.sleep(3000);
 	}
 	
-	/*@Test
+	@Test
 	public void Add_newAsset_Type() throws InterruptedException {
 		logger.info("----------- \t	Add New Asset Type");
 		portal_login();
@@ -80,10 +92,12 @@ public class MainTests {
 		Check_assets.type_Input(driver).sendKeys("Internet Camera");
 		Check_assets.type_InputBtn(driver).click();
 		Thread.sleep(3000);
-	}*/
+		portal_logout();
+		Thread.sleep(3000);
+	}
 	
-	/*
-	@Test
+	
+	@Test(enabled = false)
 	public void Add_new_PDF() throws InterruptedException {
 		logger.info("----------- \t	Add New PDF");
 		portal_login();
@@ -103,10 +117,13 @@ public class MainTests {
 		Check_assets.Save_Btn_PDF(driver).click();
 		Thread.sleep(3000);
 		Check_assets.isAlertPresent(driver);
-		
-	}*/
+		portal_logout();
+		Thread.sleep(3000);
+		turnOnImplicitWaits();
+		throw new SkipException("Skipping Add new PDF error in server" );
+	}
 	
-	/*@Test
+	@Test
 	public void Add_new_asset() throws InterruptedException {
 		logger.info("----------- \t	Add New Asset");
 		portal_login();
@@ -134,9 +151,10 @@ public class MainTests {
 		if(Check_assets.isAlertPresent(driver)) {
 			
 		}
-		
-	}*/
-	/*@Test
+		portal_logout();
+		Thread.sleep(3000);
+	}
+	@Test
 	public void reset_password() throws InterruptedException {
 		logger.info("----------- \t	Employee Rest Password");
 		portal_login();
@@ -152,8 +170,10 @@ public class MainTests {
 			Thread.sleep(3000);
 			logger.info(alertTxt);
 		}
-	}*/
-	/*
+		portal_logout();
+		Thread.sleep(3000);
+	}
+	
 	@Test
 	public void employee_assets() throws InterruptedException {
 		logger.info("----------- \t	Employee Assets");
@@ -181,8 +201,10 @@ public class MainTests {
 	      js.executeScript("scrollBy(7000, 12000)");  
 	      Thread.sleep(3000);
 	     // Check_employees.go_to_AllEmployees(driver).click();
-	}*/
-	/*@Test
+	      portal_logout();
+			Thread.sleep(3000);
+	}
+	@Test
 	public void deactive_employee() throws InterruptedException {
 		logger.info("----------- \t	Deactivate an Employee");
 		portal_login();
@@ -204,9 +226,9 @@ public class MainTests {
 			alertTxt = Check_employees.Deactive_alertMessage(driver);
 			System.out.println("Alert Message: "+ alertTxt);
 		}
-	} */
+	} 
 	
-	/*@Test
+	@Test
 	public void add_employee() throws InterruptedException {
 		logger.info("----------- \t	Adding new Employee");
 		portal_login();
@@ -279,10 +301,11 @@ public class MainTests {
 			alertTxt ="";
 			Thread.sleep(1000);
 		 	}
-		 	
-	} */
+		 	portal_logout();
+			Thread.sleep(3000);
+	} 
 	
-	/*
+	
 	@Test
 	public void search_employee() throws InterruptedException {
 		logger.info("----------- \t Check Search an employee");
@@ -305,7 +328,8 @@ public class MainTests {
 		}
 		//check_email.get_email_input(driver).clear();
 		//check_email.get_password_input(driver).clear();
-		check_email.press_logout_btn(driver).click();
+		portal_logout();
+		Thread.sleep(3000);
 		
 	}
 	@Test
@@ -322,7 +346,7 @@ public class MainTests {
 		check_email.get_email_input(driver).clear();
 		check_email.get_password_input(driver).clear();
 	}
-	*/
+	
 	@AfterTest
 	public void terminatetest() throws InterruptedException {
 
