@@ -1727,3 +1727,54 @@
 2019-09-08 11:18:33  [Portal_Test.MainTests] (main:) TEST PASSED
 2019-09-08 11:18:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
+2019-09-08 17:29:31  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-08 17:29:31  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-08 17:29:31  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-08 17:29:43  [Portal_Test.MainTests] (main:) ----------- 		Inventory Comparison
+2019-09-08 17:29:47  [Portal_Test.MainTests] (main:) Search for inventory
+2019-09-08 17:29:50  [Portal_Test.MainTests] (main:) Printing report
+2019-09-08 17:30:11  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-08 17:30:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-08 17:32:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-08 17:32:14  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-08 17:32:14  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-08 17:32:26  [Portal_Test.MainTests] (main:) ----------- 		Inventory Comparison
+2019-09-08 17:32:30  [Portal_Test.MainTests] (main:) Search for inventory
+2019-09-08 17:32:33  [Portal_Test.MainTests] (main:) Printing report
+2019-09-08 17:34:20  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-08 17:34:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-08 17:35:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-08 17:35:44  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-08 17:35:44  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-08 17:35:56  [Portal_Test.MainTests] (main:) ----------- 		Inventory Comparison
+2019-09-08 17:35:59  [Portal_Test.MainTests] (main:) Search for inventory
+2019-09-08 17:36:03  [Portal_Test.MainTests] (main:) Printing report
+2019-09-08 17:36:06  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-08 17:36:06  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-08 17:43:42  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-08 17:43:42  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-08 17:43:42  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-08 17:43:54  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-08 17:44:00  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-08 17:44:00  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-08 17:44:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-08 17:44:20  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-08 17:44:20  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-08 17:44:32  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-08 17:44:38  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-08 17:44:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-08 17:48:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-08 17:48:10  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-08 17:48:10  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-08 17:48:21  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-08 17:48:31  [Portal_Test.MainTests] (main:) ----------- 		Sending Email...
+2019-09-08 17:48:31  [Portal_Test.MainTests] (main:) -- Invalid address !!!
+2019-09-08 17:48:31  [Portal_Test.MainTests] (main:) Email test passed
+2019-09-08 17:48:35  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-08 17:48:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+

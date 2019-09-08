@@ -1,0 +1,18 @@
+<login>
+	<user> 
+ 		<username>ArkanJbali</username>
+		<password>123123</password>
+	</user>
+	<user> 
+ 		<username>qa1</username>
+		<password>qa1</password>
+	</user>
+	<user> 
+ 		<username>qa2</username>
+		<password>qa2</password>
+	</user>
+	<user> 
+ 		<username>admin</username>
+		<password>admin</password>
+	</user>
+</login>

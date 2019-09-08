@@ -19,6 +19,8 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
 import com.portal.test_cases.Check_Groups;
+import com.portal.test_cases.Check_Inventory_Comparison;
+import com.portal.test_cases.Check_TestEmail;
 import com.portal.test_cases.Check_assets;
 import com.portal.test_cases.Check_employees;
 import com.portal.test_cases.check_email;
@@ -59,6 +61,39 @@ public class MainTests {
 	    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	}
 	
+	@Test
+	public void Test_Email() throws InterruptedException {
+		logger.info("----------- \t	Test Email");
+		portal_login();
+		Thread.sleep(3000);
+		Check_TestEmail.go_to_TestEmail(driver).click();
+		Thread.sleep(3000);
+		Check_TestEmail.pick_Email(driver).click();
+		Thread.sleep(3000);
+		Check_TestEmail.sendEmail(driver).click();
+		logger.info("----------- \t	Sending Email...");
+		if(Check_TestEmail.Sent_content(driver).getText().toString().contains("Invalid address")) {
+			logger.info("-- Invalid address !!!");
+		}else {
+			logger.info("-- Mail Sent !!!");
+		}
+		logger.info("Email test passed");
+		portal_logout();
+		Thread.sleep(3000);
+	}
+	/*@Test
+	public void Inventory_Comparison() throws InterruptedException {
+		logger.info("----------- \t	Inventory Comparison");
+		portal_login();
+		Check_Inventory_Comparison.go_to_InventoryComparison(driver).click();
+		Thread.sleep(3000);
+		logger.info("Search for inventory");
+		Check_Inventory_Comparison.search_for_Inventory(driver).sendKeys("arkan");
+		Thread.sleep(3000);
+		logger.info("Printing report");
+		portal_logout();
+		Thread.sleep(3000);
+	}
 	@Test
 	public void Add_New_Group() throws InterruptedException {
 		logger.info("----------- \t	Add New Group");
@@ -346,7 +381,7 @@ public class MainTests {
 		check_email.get_email_input(driver).clear();
 		check_email.get_password_input(driver).clear();
 	}
-	
+	*/
 	@AfterTest
 	public void terminatetest() throws InterruptedException {
 
