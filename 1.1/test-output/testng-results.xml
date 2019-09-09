@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24944" started-at="2019-09-08T14:48:10Z" finished-at="2019-09-08T14:48:35Z">
+  <suite name="Default suite" duration-ms="41447" started-at="2019-09-09T11:28:32Z" finished-at="2019-09-09T11:29:14Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24944" started-at="2019-09-08T14:48:10Z" finished-at="2019-09-08T14:48:35Z">
+    <test name="Default test" duration-ms="41447" started-at="2019-09-09T11:28:32Z" finished-at="2019-09-09T11:29:14Z">
       <class name="Portal_Test.MainTests">
-        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="lunchApp" is-config="true" duration-ms="11647" started-at="2019-09-08T17:48:10Z" finished-at="2019-09-08T17:48:21Z">
+        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="lunchApp" is-config="true" duration-ms="11852" started-at="2019-09-09T14:28:32Z" finished-at="2019-09-09T14:28:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lunchApp -->
-        <test-method status="PASS" signature="Test_Email()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="Test_Email" duration-ms="13189" started-at="2019-09-08T17:48:21Z" finished-at="2019-09-08T17:48:35Z">
+        <test-method status="PASS" signature="Test_Email()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="Test_Email" duration-ms="29415" started-at="2019-09-09T14:28:44Z" finished-at="2019-09-09T14:29:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test_Email -->
-        <test-method status="PASS" signature="terminatetest()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="terminatetest" is-config="true" duration-ms="93" started-at="2019-09-08T17:48:35Z" finished-at="2019-09-08T17:48:35Z">
+        <test-method status="PASS" signature="terminatetest()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="terminatetest" is-config="true" duration-ms="159" started-at="2019-09-09T14:29:14Z" finished-at="2019-09-09T14:29:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- terminatetest -->

@@ -31,24 +31,6 @@ public class MainTests {
 	public String checkURL() {
 		return driver.getCurrentUrl();
 	}
-	
-	static final Logger logger = LogManager.getLogger(MainTests.class.getName());
-	WebDriver driver;
-	Scanner getNewInput = new Scanner(System.in);
-	@BeforeTest(alwaysRun = true)
-	public void lunchApp() {
-		
-		DOMConfigurator.configure("log4j.xml");
-		logger.info("# # # # # # # # # # # # # # # # # # # # # # # # # # # ");
-		logger.info("TEST Has Started");
-		logger.info("Open Web Application");
-		
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\arkan\\Downloads\\chromedriver.exe");
-		driver=new ChromeDriver();
-		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
-		driver.navigate().to("http://192.168.2.184/envintory-qa/Login");
-		driver.manage().window().maximize();  
-	}
 	public void portal_login() {
 		check_email.get_email_input(driver).sendKeys("qa1");
 		check_email.get_password_input(driver).sendKeys("qa1");
@@ -60,7 +42,23 @@ public class MainTests {
 	private void turnOnImplicitWaits() {
 	    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	}
+	static final Logger logger = LogManager.getLogger(MainTests.class.getName());
+	WebDriver driver;
+	Scanner getNewInput = new Scanner(System.in);
 	
+	@BeforeTest(alwaysRun = true)
+	public void lunchApp() {
+		DOMConfigurator.configure("log4j.xml");
+		logger.info("# # # # # # # # # # # # # # # # # # # # # # # # # # # ");
+		logger.info("TEST Has Started");
+		logger.info("Open Web Application");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\arkan\\Downloads\\chromedriver.exe");
+		driver=new ChromeDriver();
+		//Implicit Wait
+		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+		driver.navigate().to("http://192.168.2.184/envintory-qa/Login");
+		driver.manage().window().maximize();  
+	}
 	@Test
 	public void Test_Email() throws InterruptedException {
 		logger.info("----------- \t	Test Email");
@@ -74,6 +72,12 @@ public class MainTests {
 		logger.info("----------- \t	Sending Email...");
 		if(Check_TestEmail.Sent_content(driver).getText().toString().contains("Invalid address")) {
 			logger.info("-- Invalid address !!!");
+			try {
+				Check_TestEmail.invalid_address(driver);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 		}else {
 			logger.info("-- Mail Sent !!!");
 		}

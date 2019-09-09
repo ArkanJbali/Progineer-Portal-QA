@@ -1778,3 +1778,33 @@
 2019-09-08 17:48:35  [Portal_Test.MainTests] (main:) TEST PASSED
 2019-09-08 17:48:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
+2019-09-09 11:56:38  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-09 11:56:38  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-09 11:56:38  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-09 11:56:50  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-09 11:57:00  [Portal_Test.MainTests] (main:) ----------- 		Sending Email...
+2019-09-09 11:57:00  [Portal_Test.MainTests] (main:) -- Mail Sent !!!
+2019-09-09 11:57:00  [Portal_Test.MainTests] (main:) Email test passed
+2019-09-09 11:57:03  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-09 11:57:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-09 14:27:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-09 14:27:39  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-09 14:27:39  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-09 14:27:51  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-09 14:28:01  [Portal_Test.MainTests] (main:) ----------- 		Sending Email...
+2019-09-09 14:28:01  [Portal_Test.MainTests] (main:) -- Invalid address !!!
+2019-09-09 14:28:01  [Portal_Test.MainTests] (main:) Email test passed
+2019-09-09 14:28:04  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-09 14:28:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-09 14:28:32  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-09 14:28:32  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-09 14:28:32  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-09 14:28:44  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-09 14:28:55  [Portal_Test.MainTests] (main:) ----------- 		Sending Email...
+2019-09-09 14:28:55  [Portal_Test.MainTests] (main:) -- Invalid address !!!
+2019-09-09 14:29:10  [Portal_Test.MainTests] (main:) Email test passed
+2019-09-09 14:29:14  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-09 14:29:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
