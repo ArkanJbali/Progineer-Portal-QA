@@ -1,10 +1,14 @@
 package com.portal.test_cases;
 
+import java.io.File;
 import java.util.List;
 
+import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoAlertPresentException;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
@@ -97,6 +101,10 @@ private static WebElement element = null;
 		}
 		
 	}
+	public static List<WebElement> delete_User(WebDriver driver) {
+		List<WebElement> elements = driver.findElements(By.xpath("//*[@id=\"list_show\"]/a/img[@title=\"Delete\"]"));
+		return elements;
+	}
 	public static boolean isAlertPresent(WebDriver driver) 
 	{ 
 	    try 
@@ -109,6 +117,42 @@ private static WebElement element = null;
 	        return false; 
 	    }   // catch 
 	} 
+	public static WebElement add_Btn(WebDriver driver) {
+		element = driver.findElement(By.xpath("//*[@id=\"add_item\"]"));
+		return element;
+	}
+	public static WebElement name_input(WebDriver driver) {
+		element = driver.findElement(By.xpath("//*[@id=\"name\"]"));
+		return element;
+	}
+	public static WebElement UserName_input(WebDriver driver) {
+		element = driver.findElement(By.xpath("//*[@id=\"usr_name\"]"));
+		return element;
+	}
+	public static WebElement password_input(WebDriver driver) {
+		element = driver.findElement(By.xpath("//*[@id=\"pass\"]"));
+		return element;
+	}
+	public static WebElement role_pick(WebDriver driver) {
+		element = driver.findElement(By.xpath("//*[@id=\"type\"]/option[2]"));
+		return element;
+	}
+	public static WebElement add_new_user_Btn(WebDriver driver) {
+		element = driver.findElement(By.xpath("//*[@id=\"Add_item_dataaddform\"]/td[6]/input"));
+		return element;
+	}
 	
-
+	public static WebElement invalid_User(WebDriver driver)throws Exception {
+		   try {
+		      element = driver.findElement(By.xpath("//*[@id=\"data_div\"]/div/table/tbody/tr[1]/td[@class='tcat']")); 
+		      return element;
+		   } catch (Exception e1) {
+		      // Add a message to your Log File to capture the error
+		     // Logger.error("Link is not found.");
+		      // Take a screenshot which will be helpful for analysis.
+		      File screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		      FileUtils.copyFile(screenshot, new File("C:\\Users\\arkan\\Progineer-Workspace\\repository\\1.1\\src\\main\\java\\ScreenShots\\screenshot_"+Check_Users.class.getName()+".jpg"));
+		      throw(e1);
+		   }
+	}
 }

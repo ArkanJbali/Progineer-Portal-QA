@@ -9,9 +9,11 @@ import java.util.concurrent.TimeUnit;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
@@ -20,6 +22,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
 import com.portal.test_cases.Check_Groups;
+import com.portal.test_cases.Check_InventoryStocking;
 import com.portal.test_cases.Check_Inventory_Comparison;
 import com.portal.test_cases.Check_TestEmail;
 import com.portal.test_cases.Check_assets;
@@ -61,22 +64,71 @@ public class MainTests {
 		driver.navigate().to("http://192.168.2.184/envintory-qa/Login");
 		driver.manage().window().maximize();  
 	}
-	@Test public void Check_Users() throws InterruptedException {
+	@Test
+	public void Inventory_Stocking() throws InterruptedException {
+		logger.info("----------- \t	Inside Inventory & Stocking");
+		portal_login();
+		Thread.sleep(2000);
+		Check_InventoryStocking.go_to_InventoryStocking(driver).click();
+		Thread.sleep(2000);
+		Check_InventoryStocking.Check_Who_Active(driver);
+		Thread.sleep(2000);
+		logger.info("--  Checked who is active");
+		Check_InventoryStocking.check_ByButton(driver).click();
+		if(Check_InventoryStocking.isAlertPresent(driver)) {
+			Thread.sleep(2000);
+			logger.info(Check_InventoryStocking.Deactive_alertMessage(driver));
+		}
+		portal_logout();
+	}
+	/*
+	@Test 
+	public void Check_Users() throws InterruptedException {
 		logger.info("----------- \t	Update User Permissions");
 		portal_login();
 		Thread.sleep(3000);
 		Check_Users.go_to_users(driver).click();
 		Thread.sleep(3000);
 		logger.info("-- Inside User Permission");
-		Check_Users.go_to_usersPermission(driver).get(1).click();
+		Check_Users.go_to_usersPermission(driver).get(5).click();
 		Thread.sleep(3000);
-		//String s=driver.findElement(By.xpath("//*[@id='data_tp']/tbody/tr[" + "2" + "]/td["+ "2" +"]/div")).getText().toString();
 		Check_Users.Compare_Permission(driver);
 		Thread.sleep(5000);
-		//System.out.println(s);
+		logger.info("-- User Permission Updated...");
+		Check_Users.go_to_users(driver).click();
+		Thread.sleep(2000);
+		logger.info("-- Deleteing User...");
+		Check_Users.delete_User(driver).get(5).click();
+		Thread.sleep(2000);
+		if(Check_Users.isAlertPresent(driver)) {
+			Alert alert = (Alert) driver.switchTo().alert();  
+			alert.accept();
+		}
+		logger.info("-- User is deleted");
+		Thread.sleep(2000);
+		logger.info("--------\t Adding New User");
+		Check_Users.add_Btn(driver).click();
+		Check_Users.name_input(driver).sendKeys("Test");
+		Check_Users.UserName_input(driver).sendKeys("TestUser2");
+		Check_Users.password_input(driver).sendKeys("TestUser");
+		Check_Users.role_pick(driver).click();
+		Check_Users.add_new_user_Btn(driver).click();
+		Thread.sleep(3000);
+		try {
+			logger.info(Check_Users.invalid_User(driver).getText().toString());
+			logger.info("-- User already exist!!!");
+			Thread.sleep(5000);
+			Check_Users.go_to_users(driver).click();
+		}catch (NoSuchElementException e) {
+			System.out.println("NoSuchElementException");
+			logger.info("-- User added...");
+		} catch (Exception e) {
+			System.out.println("Exception");
+		}
+		
 		portal_logout();
 	}
-	
+	*/
 	/*@Test
 	public void Test_Email() throws InterruptedException {
 		logger.info("----------- \t	Test Email");
