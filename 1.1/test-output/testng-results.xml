@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="140365" started-at="2019-09-10T10:07:33Z" finished-at="2019-09-10T10:09:53Z">
+  <suite name="Default suite" duration-ms="25911" started-at="2019-09-10T14:42:35Z" finished-at="2019-09-10T14:43:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="140365" started-at="2019-09-10T10:07:33Z" finished-at="2019-09-10T10:09:53Z">
+    <test name="Default test" duration-ms="25911" started-at="2019-09-10T14:42:35Z" finished-at="2019-09-10T14:43:01Z">
       <class name="Portal_Test.MainTests">
-        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="lunchApp" is-config="true" duration-ms="11319" started-at="2019-09-10T13:07:33Z" finished-at="2019-09-10T13:07:44Z">
+        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="lunchApp" is-config="true" duration-ms="11252" started-at="2019-09-10T17:42:35Z" finished-at="2019-09-10T17:42:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lunchApp -->
-        <test-method status="PASS" signature="Check_Users()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="Check_Users" duration-ms="128958" started-at="2019-09-10T13:07:44Z" finished-at="2019-09-10T13:09:53Z">
+        <test-method status="PASS" signature="Inventory_Stocking()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="Inventory_Stocking" duration-ms="14550" started-at="2019-09-10T17:42:46Z" finished-at="2019-09-10T17:43:01Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Check_Users -->
-        <test-method status="PASS" signature="terminatetest()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="terminatetest" is-config="true" duration-ms="74" started-at="2019-09-10T13:09:53Z" finished-at="2019-09-10T13:09:53Z">
+        </test-method> <!-- Inventory_Stocking -->
+        <test-method status="PASS" signature="terminatetest()[pri:0, instance:Portal_Test.MainTests@d8355a8]" name="terminatetest" is-config="true" duration-ms="92" started-at="2019-09-10T17:43:01Z" finished-at="2019-09-10T17:43:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- terminatetest -->
