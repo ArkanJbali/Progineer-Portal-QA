@@ -9,6 +9,7 @@ import java.util.concurrent.TimeUnit;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -24,6 +25,7 @@ import com.portal.test_cases.Check_TestEmail;
 import com.portal.test_cases.Check_assets;
 import com.portal.test_cases.Check_employees;
 import com.portal.test_cases.check_email;
+import com.portal.test_cases.Check_Users;
 
 
 
@@ -32,8 +34,8 @@ public class MainTests {
 		return driver.getCurrentUrl();
 	}
 	public void portal_login() {
-		check_email.get_email_input(driver).sendKeys("qa1");
-		check_email.get_password_input(driver).sendKeys("qa1");
+		check_email.get_email_input(driver).sendKeys("qa2");
+		check_email.get_password_input(driver).sendKeys("qa2");
 		check_email.press_login_btn(driver).click();
 	}
 	public void portal_logout() {
@@ -59,7 +61,23 @@ public class MainTests {
 		driver.navigate().to("http://192.168.2.184/envintory-qa/Login");
 		driver.manage().window().maximize();  
 	}
-	@Test
+	@Test public void Check_Users() throws InterruptedException {
+		logger.info("----------- \t	Update User Permissions");
+		portal_login();
+		Thread.sleep(3000);
+		Check_Users.go_to_users(driver).click();
+		Thread.sleep(3000);
+		logger.info("-- Inside User Permission");
+		Check_Users.go_to_usersPermission(driver).get(1).click();
+		Thread.sleep(3000);
+		//String s=driver.findElement(By.xpath("//*[@id='data_tp']/tbody/tr[" + "2" + "]/td["+ "2" +"]/div")).getText().toString();
+		Check_Users.Compare_Permission(driver);
+		Thread.sleep(5000);
+		//System.out.println(s);
+		portal_logout();
+	}
+	
+	/*@Test
 	public void Test_Email() throws InterruptedException {
 		logger.info("----------- \t	Test Email");
 		portal_login();
@@ -84,7 +102,7 @@ public class MainTests {
 		logger.info("Email test passed");
 		portal_logout();
 		Thread.sleep(3000);
-	}
+	}*/
 	/*@Test
 	public void Inventory_Comparison() throws InterruptedException {
 		logger.info("----------- \t	Inventory Comparison");

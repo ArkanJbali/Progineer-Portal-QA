@@ -37,7 +37,7 @@ public class check_email {
 		return element;
 	}
 	public static WebElement press_logout_btn(WebDriver driver) {
-		element = driver.findElement(By.xpath("//a[@href='http://192.168.2.184/envintory-qa//Login/logout?name=qa1']")); 
+		element = driver.findElement(By.xpath("//a[@href='http://192.168.2.184/envintory-qa//Login/logout?name=qa2']")); 
 		return element;
 	}
 }

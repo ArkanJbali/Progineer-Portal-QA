@@ -1808,3 +1808,169 @@
 2019-09-09 14:29:14  [Portal_Test.MainTests] (main:) TEST PASSED
 2019-09-09 14:29:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
+2019-09-09 17:31:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-09 17:31:48  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-09 17:31:48  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-09 17:32:03  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-09 17:32:15  [Portal_Test.MainTests] (main:) ----------- 		Sending Email...
+2019-09-09 17:32:15  [Portal_Test.MainTests] (main:) -- Invalid address !!!
+2019-09-09 17:32:32  [Portal_Test.MainTests] (main:) Email test passed
+2019-09-09 17:32:36  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-09 17:32:37  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 10:58:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 10:58:15  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 10:58:15  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 10:58:28  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 10:58:35  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 10:58:38  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 10:58:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 10:58:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 10:58:45  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 10:58:45  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 10:58:56  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 10:59:03  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 10:59:07  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 10:59:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 11:30:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 11:30:05  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 11:30:05  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 11:30:17  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 11:30:23  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 11:30:27  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 11:30:27  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 11:31:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 11:31:07  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 11:31:07  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 11:31:19  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 11:31:26  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 11:31:44  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 11:31:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 11:32:06  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 11:32:06  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 11:32:06  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 11:32:18  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 11:32:25  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 11:32:29  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 11:32:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 12:12:37  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:12:37  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:12:37  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:12:48  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:12:55  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 12:13:13  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 12:13:13  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 12:14:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:14:48  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:14:48  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:14:59  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:15:06  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 12:15:12  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 12:15:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 12:33:58  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:33:58  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:33:58  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:34:09  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:34:15  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 12:34:19  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 12:34:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 12:36:54  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:36:54  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:36:54  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:37:07  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:37:13  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 12:37:17  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 12:37:21  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 12:38:58  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:38:58  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:38:58  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:39:09  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:39:16  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 12:39:24  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 12:39:24  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 12:40:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:40:35  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:40:35  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:40:46  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:40:53  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 12:40:56  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 12:41:00  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 12:42:53  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:42:53  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:42:53  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:43:05  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:43:11  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 12:43:15  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 12:43:19  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 12:43:28  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:43:28  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:43:28  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:43:40  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:43:46  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 12:46:45  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 12:46:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 12:48:09  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:48:09  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:48:09  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:48:20  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:49:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:49:34  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:49:34  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:49:46  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:49:52  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 12:49:56  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 12:49:56  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 12:51:40  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:51:40  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:51:40  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:51:51  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:51:58  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 12:52:07  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 12:52:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 12:56:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 12:56:39  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 12:56:39  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 12:56:51  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 12:56:58  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 12:59:15  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 12:59:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 13:00:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 13:00:34  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 13:00:34  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 13:00:46  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 13:00:53  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 13:03:10  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 13:03:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 13:04:27  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 13:04:27  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 13:04:27  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 13:04:39  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 13:04:45  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 13:06:37  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 13:06:37  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-10 13:07:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-10 13:07:33  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-10 13:07:33  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-10 13:07:44  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-10 13:07:51  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-10 13:09:53  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-10 13:09:53  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
