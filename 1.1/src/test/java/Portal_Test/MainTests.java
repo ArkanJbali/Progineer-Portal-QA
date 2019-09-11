@@ -21,6 +21,7 @@ import org.testng.SkipException;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
+import com.portal.test_cases.Check_Checklist;
 import com.portal.test_cases.Check_Groups;
 import com.portal.test_cases.Check_InventoryStocking;
 import com.portal.test_cases.Check_Inventory_Comparison;
@@ -65,6 +66,32 @@ public class MainTests {
 		driver.manage().window().maximize();  
 	}
 	@Test
+	public void Checklist() throws InterruptedException {
+		logger.info("----------- \t	Checklist");
+		portal_login();
+		Thread.sleep(2000);
+		logger.info("--	 Inside Checklist");
+		Check_Checklist.go_to_Checklist(driver).click();
+		Thread.sleep(2000);
+		logger.info("--	 adding group to checklist");
+		Check_Checklist.select_Group(driver).click();
+		Thread.sleep(2000);
+		Check_Checklist.add_Group_Btn(driver).click();
+		Thread.sleep(1000);
+		if(Check_Checklist.isAlertPresent(driver)) {
+			logger.info("Group is: " + Check_Checklist.Exist_alertMessage(driver));
+		}
+		Thread.sleep(2000);
+		logger.info("--	 Removing a group");
+		Check_Checklist.remove_Group(driver).click();
+		Thread.sleep(5000);
+		logger.info("--	 Removing a checklist");
+		Actions actions = new Actions(driver);
+		actions.moveToElement(Check_Checklist.Remove_CheckList(driver)).click().build().perform();
+		Thread.sleep(3000);
+		portal_logout();
+	}
+	/*@Test
 	public void Inventory_Stocking() throws InterruptedException {
 		logger.info("----------- \t	Inside Inventory & Stocking");
 		portal_login();
@@ -80,7 +107,7 @@ public class MainTests {
 			logger.info(Check_InventoryStocking.Deactive_alertMessage(driver));
 		}
 		portal_logout();
-	}
+	}*/
 	/*
 	@Test 
 	public void Check_Users() throws InterruptedException {
