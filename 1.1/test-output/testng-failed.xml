@@ -5,9 +5,15 @@
     <classes>
       <class name="Portal_Test.MainTests">
         <methods>
+          <include name="add_employee"/>
           <include name="lunchApp"/>
           <include name="Inventory_Stocking"/>
+          <include name="deactive_employee"/>
+          <include name="Check_Users"/>
           <include name="terminatetest"/>
+          <include name="reset_password"/>
+          <include name="Add_new_PDF"/>
+          <include name="employee_assets"/>
         </methods>
       </class> <!-- Portal_Test.MainTests -->
     </classes>

@@ -1,1682 +1,4 @@
-2019-09-02 15:02:22  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:02:22  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:02:22  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:02:34  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:02:34  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:02:34  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:02:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-2019-09-02 15:04:22  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:04:22  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:04:22  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:04:33  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:04:34  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:04:34  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:04:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:05:26  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:05:26  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:05:26  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:05:38  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:05:38  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:05:38  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:06:22  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:06:22  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:06:22  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:06:34  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:06:49  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:07:04  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:07:04  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:10:51  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:10:51  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:10:51  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:11:03  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:11:05  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:11:20  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:11:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:13:02  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:13:02  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:13:02  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:13:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:13:44  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:13:44  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:13:55  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:13:57  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:15:49  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:15:49  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:15:49  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:16:01  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:16:04  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:16:08  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:16:08  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:17:26  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:17:26  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:17:26  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:17:37  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:17:41  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:18:00  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:18:00  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:18:46  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:18:46  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:18:46  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:18:57  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:19:01  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:19:05  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:19:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:22:09  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:22:09  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:22:09  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:22:20  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:22:24  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:22:42  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:22:42  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:24:31  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:24:31  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:24:31  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:24:43  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:24:47  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:24:51  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:24:51  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:27:24  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:27:24  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:27:24  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:27:36  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:27:40  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:27:44  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:27:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:29:09  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:29:09  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:29:09  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:29:21  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:29:25  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:29:29  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:29:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:32:57  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:32:57  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:32:57  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:33:09  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:33:13  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:33:17  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:33:17  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:33:53  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:33:53  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:33:53  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:34:05  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:34:08  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:34:12  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:34:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 15:35:38  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 15:35:38  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 15:35:38  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 15:35:50  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 15:35:54  [Portal_Test.MainTests] (main:) Login fail using email
-2019-09-02 15:35:54  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 15:35:59  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 15:35:59  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 16:25:28  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 16:25:28  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 16:25:28  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 16:25:40  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 16:25:44  [Portal_Test.MainTests] (main:) Login fail using Email
-2019-09-02 16:25:44  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 16:25:48  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 16:25:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 18:01:19  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 18:01:19  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 18:01:19  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 18:01:30  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 18:01:34  [Portal_Test.MainTests] (main:) Login fail using Email
-2019-09-02 18:01:34  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 18:01:38  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 18:01:38  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 18:03:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 18:03:39  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 18:03:39  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 18:03:56  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 18:03:59  [Portal_Test.MainTests] (main:) Login fail using Email
-2019-09-02 18:03:59  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 18:04:03  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 18:04:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 18:05:43  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 18:05:43  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 18:05:43  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 18:05:59  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 18:06:02  [Portal_Test.MainTests] (main:) Login fail using Email
-2019-09-02 18:06:02  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 18:06:06  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 18:06:06  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 18:07:09  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 18:07:09  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 18:07:09  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 18:07:26  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 18:07:29  [Portal_Test.MainTests] (main:) Login fail using Email
-2019-09-02 18:07:29  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 18:07:33  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 18:07:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-02 18:08:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-02 18:08:15  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-02 18:08:15  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-02 18:08:32  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-02 18:08:35  [Portal_Test.MainTests] (main:) Login fail using Email
-2019-09-02 18:08:35  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-02 18:08:39  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-02 18:08:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 11:52:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 11:52:14  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 11:52:14  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 11:52:26  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-03 11:52:30  [Portal_Test.MainTests] (main:) Login fail using Email
-2019-09-03 11:52:30  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-03 11:52:34  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
-2019-09-03 11:52:37  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 11:52:37  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 12:37:40  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 12:37:40  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 12:37:40  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 12:37:51  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 12:37:56  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 12:37:56  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 12:39:50  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 12:39:50  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 12:39:50  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 12:40:01  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 12:40:05  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 12:40:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 12:41:38  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 12:41:38  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 12:41:38  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 12:41:54  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 12:41:59  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 12:41:59  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 12:43:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 12:43:48  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 12:43:48  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 12:44:00  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 12:44:04  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 12:44:04  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 12:46:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 12:46:35  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 12:46:35  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 12:46:46  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 12:46:51  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 12:46:51  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 12:47:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 12:47:45  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 12:47:45  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 12:47:56  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 12:48:02  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 12:48:02  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 12:48:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 12:48:20  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 12:48:20  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 12:48:32  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 12:48:39  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 12:48:39  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 12:48:39  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 12:48:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 14:51:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 14:51:34  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 14:51:34  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 14:51:46  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 14:51:53  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 14:51:53  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 14:51:53  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 14:51:53  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 14:52:31  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 14:52:31  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 14:52:31  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 14:52:42  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 14:52:50  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 14:52:50  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 14:52:50  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 14:52:50  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:02:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:02:25  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:02:25  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:02:36  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:02:44  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 15:02:44  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:02:45  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:02:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:04:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:04:15  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:04:15  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:04:26  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:04:34  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 15:04:34  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:04:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:20:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:20:34  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:20:34  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:20:46  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:20:54  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 15:20:54  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:20:54  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:20:54  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:20:54  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:20:54  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:20:55  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:20:55  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:20:55  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:23:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:23:18  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:23:18  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:23:30  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:23:38  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 15:23:38  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:23:43  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:23:44  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:23:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:24:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:24:20  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:24:20  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:24:32  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:24:40  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 15:24:40  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:24:44  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:29:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:29:45  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:29:45  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:29:56  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:30:04  [Portal_Test.MainTests] (main:) The name, ID number, start date, location and manager_id must be set
-2019-09-03 15:30:50  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:30:50  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:31:32  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:31:32  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:31:32  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:31:43  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:31:52  [Portal_Test.MainTests] (main:) The name, ID number, start date, location and manager_id must be set
-2019-09-03 15:33:47  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:33:47  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:33:47  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:33:58  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:34:06  [Portal_Test.MainTests] (main:) The name, ID number, start date, location and manager_id must be set
-2019-09-03 15:35:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:35:12  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:35:12  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:35:20  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:35:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:35:24  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:35:31  [Portal_Test.MainTests] (main:) The name, ID number, start date, location and manager_id must be set
-2019-09-03 15:35:32  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:35:32  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:38:11  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:38:11  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:38:11  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:38:22  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:38:30  [Portal_Test.MainTests] (main:) The name, ID number, start date, location and manager_id must be set
-2019-09-03 15:38:31  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:38:31  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:39:02  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:39:02  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:39:02  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:39:13  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:39:21  [Portal_Test.MainTests] (main:) The name, ID number, start date, location and manager_id must be set
-2019-09-03 15:39:33  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:39:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:41:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:41:12  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:41:12  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:41:24  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:41:31  [Portal_Test.MainTests] (main:) The name, ID number, start date, location and manager_id must be set
-2019-09-03 15:42:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:42:33  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:42:33  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:42:45  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:42:52  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 15:42:52  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:42:56  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:43:00  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:43:00  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:46:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:46:18  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:46:18  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:46:29  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:46:37  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 15:46:37  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:46:43  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:46:49  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:46:49  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 15:49:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:49:12  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:49:12  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:49:24  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:49:32  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 15:49:32  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:49:43  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:50:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 15:50:39  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 15:50:39  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 15:50:50  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 15:50:58  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 15:50:58  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:51:05  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 15:51:11  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 15:51:11  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:06:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:06:20  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:06:20  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:06:31  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:06:39  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:06:39  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:06:45  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:07:54  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:08:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:09:38  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:09:38  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:09:38  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:09:50  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:09:57  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:09:57  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:10:09  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:10:14  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:10:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:11:54  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:11:54  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:11:54  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:12:06  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:12:14  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:12:14  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:14:21  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:16:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:16:48  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:16:48  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:16:59  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:17:06  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:17:06  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:17:12  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:17:19  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:17:34  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:17:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:18:13  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:18:13  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:18:13  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:18:24  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:18:31  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:18:31  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:18:42  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:18:57  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:18:57  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:19:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:19:25  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:19:25  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:19:36  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:19:43  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:19:43  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:19:48  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:20:03  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:20:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:20:51  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:20:51  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:20:51  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:21:02  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:21:09  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:21:11  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:21:18  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:21:33  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:21:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:22:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:22:39  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:22:39  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:22:50  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:22:58  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:23:00  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:23:05  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:23:20  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:23:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:23:50  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:23:50  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:23:50  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:24:01  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:24:09  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:24:11  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:24:19  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:24:34  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:24:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:25:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:25:25  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:25:25  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:25:36  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:25:44  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:25:44  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:25:50  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:26:05  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:26:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:27:11  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:27:11  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:27:11  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:27:22  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:27:29  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:27:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:28:51  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:28:51  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:28:51  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:29:02  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:29:09  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:29:09  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:29:28  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:29:44  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:29:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:46:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:46:23  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:46:23  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:46:34  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:46:41  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:46:41  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:46:41  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:47:43  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:47:43  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:47:43  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:47:54  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:48:01  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:48:01  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:48:01  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:48:56  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:48:56  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:48:56  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:49:07  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:49:14  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:49:14  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:51:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:51:33  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:51:33  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:51:44  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:51:52  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:51:52  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:51:52  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:52:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:52:34  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:52:34  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:52:45  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:52:53  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:52:53  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:52:59  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:53:14  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:53:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:53:49  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:53:49  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:53:49  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:54:00  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:54:07  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:54:07  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:54:14  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:54:29  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:54:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:54:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:54:48  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:54:48  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:54:58  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:55:06  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:55:06  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:55:15  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:55:19  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:55:19  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:56:19  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:56:19  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:56:19  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:56:30  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:56:38  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:56:38  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 16:58:30  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 16:58:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 16:59:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 16:59:35  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 16:59:35  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 16:59:46  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 16:59:53  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 16:59:53  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:01:25  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:01:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:02:32  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:02:32  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:02:32  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:02:44  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:02:51  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:02:51  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:04:11  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:04:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:04:36  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:04:36  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:04:47  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:04:55  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:04:55  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:05:57  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:05:57  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:06:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:06:15  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:06:15  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:06:26  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:06:34  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:06:34  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:10:17  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:10:17  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:10:17  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:10:29  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:10:36  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:10:36  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:15:40  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:15:40  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:15:40  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:15:51  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:15:59  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:15:59  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:17:57  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:17:57  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:17:57  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:18:08  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:18:16  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:18:16  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:18:22  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:18:22  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:18:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:18:33  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:18:33  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:18:45  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:18:52  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:18:52  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:18:55  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:18:55  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:19:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:19:25  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:19:25  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:19:36  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:19:44  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:19:44  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:20:45  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:20:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:21:21  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:21:21  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:21:21  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:21:32  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:21:40  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:21:40  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:22:27  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:22:27  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:23:02  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:23:02  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:23:02  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:23:13  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:23:21  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:23:21  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:24:22  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:24:22  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:25:43  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:25:43  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:25:43  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:25:54  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:26:02  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:26:02  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:26:08  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:26:08  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:27:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:27:07  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:27:07  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:27:18  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:27:26  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:27:26  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:28:02  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:28:02  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:30:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:30:16  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:30:16  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:30:27  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:30:34  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:30:34  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:31:04  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:31:04  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:33:04  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:33:04  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:33:04  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:33:15  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:33:23  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:33:23  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:33:25  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:33:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:34:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:34:25  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:34:25  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:34:36  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:34:44  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:34:44  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:34:47  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:34:47  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:35:11  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:35:11  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:35:11  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:35:21  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:35:29  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:35:29  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:35:32  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:35:32  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:35:46  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:35:46  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:35:46  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:35:57  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:36:05  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:36:05  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:36:14  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:36:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:36:43  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:36:43  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:36:43  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:36:54  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:37:01  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:37:01  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:37:06  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:37:06  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:38:01  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:38:01  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:38:01  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:38:12  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:38:20  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:38:20  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:38:23  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:38:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:39:31  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:39:31  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:39:31  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:39:42  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:39:50  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:39:50  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:48:04  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:48:04  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:48:04  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:48:15  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:48:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:48:16  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:48:24  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:48:24  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:51:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:51:30  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:51:30  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:51:41  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:51:49  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:51:49  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:52:50  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:52:50  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:54:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:54:30  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:54:30  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:54:41  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:54:48  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:54:48  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:54:53  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:54:53  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:55:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:55:10  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:55:10  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:55:22  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:55:29  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:55:29  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:56:20  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:56:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:56:43  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:56:43  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:56:43  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:56:55  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:57:02  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:57:02  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:59:06  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:59:06  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:59:06  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:59:17  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:59:17  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:59:17  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 17:59:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 17:59:30  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 17:59:30  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 17:59:41  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 17:59:49  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 17:59:49  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 17:59:59  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 17:59:59  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:01:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:01:05  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:01:05  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:01:16  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:01:24  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:01:24  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:01:31  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:01:31  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:01:43  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:01:43  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:01:43  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:01:54  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:02:02  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:02:02  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:02:12  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:02:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:02:53  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:02:53  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:02:53  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:03:04  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:03:12  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:03:12  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:03:16  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:03:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:04:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:04:29  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:04:29  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:04:41  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:04:49  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:04:49  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:04:53  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:04:53  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:05:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:05:12  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:05:12  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:05:24  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:05:32  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:05:32  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:05:36  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:05:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:06:02  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:06:02  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:06:02  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:06:13  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:06:21  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:06:21  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:06:25  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:06:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:07:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:07:03  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:07:03  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:07:15  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:07:23  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:07:23  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:07:30  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:07:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:07:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:07:39  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:07:39  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:07:50  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:07:58  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:07:58  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:08:02  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:08:02  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:08:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:08:15  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:08:15  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:08:26  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:08:34  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:08:34  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:08:39  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:08:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:08:51  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:08:51  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:08:51  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:09:03  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:09:11  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:09:11  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:10:09  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:10:09  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:13:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:13:16  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:13:16  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:14:58  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:14:58  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:14:58  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:15:11  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:15:18  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:15:19  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:15:47  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:15:47  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:15:47  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:15:59  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:16:07  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:16:07  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:16:10  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:16:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:17:00  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:17:00  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:17:00  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:17:12  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:17:25  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:17:25  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-03 18:17:35  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-03 18:17:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-03 18:18:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-03 18:18:29  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-03 18:18:29  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-03 18:18:41  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-03 18:18:48  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-03 18:18:49  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:14:02  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:14:02  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:14:02  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:14:14  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:14:22  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:14:23  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:31:59  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:31:59  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:31:59  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:32:11  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:32:19  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:32:19  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:33:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:33:10  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:33:10  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:33:21  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:33:30  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:33:30  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:33:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:33:45  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:33:45  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:33:56  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:34:05  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:34:05  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:35:21  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:35:21  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:35:21  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:35:32  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:35:41  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:35:41  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:35:54  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:35:54  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:35:54  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:36:06  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:36:14  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:36:14  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:36:17  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:36:17  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:36:28  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:36:28  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:36:28  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:36:39  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:36:48  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:36:48  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:38:41  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:38:41  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:38:41  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:38:53  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:39:01  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:39:01  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:39:01  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:40:11  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:40:11  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:40:11  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:40:22  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:40:31  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:40:31  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:40:31  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:41:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:41:44  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:41:44  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:41:57  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:42:05  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:42:05  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:42:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:42:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:42:18  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:42:18  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:42:30  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:42:38  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:42:38  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:42:38  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:43:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:43:44  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:43:44  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:43:55  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:44:04  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:44:04  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:44:04  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:44:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:44:45  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:44:45  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:44:56  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:45:05  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:45:05  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:45:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:45:43  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:45:43  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:45:43  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:45:55  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:46:03  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:46:03  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:46:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:46:09  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:46:09  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:46:09  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:46:21  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:46:29  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:46:29  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:46:35  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:46:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:46:46  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:46:46  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:46:46  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:46:58  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:47:07  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:47:07  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:47:14  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:47:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:47:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:47:44  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:47:44  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:47:56  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:48:04  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:48:05  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:48:55  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:48:55  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:49:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:49:44  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:49:44  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:49:56  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:50:05  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:50:05  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:50:47  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:50:47  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:52:22  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:52:22  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:52:22  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 10:52:33  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 10:52:42  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 10:52:42  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 10:59:29  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 10:59:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 10:59:54  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 10:59:54  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 10:59:54  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 11:00:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 11:00:25  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 11:00:25  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 11:00:37  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 11:00:45  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 11:00:45  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 11:00:52  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 11:00:52  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 11:01:09  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 11:01:09  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 11:01:09  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 11:01:20  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 11:01:29  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 11:01:29  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 11:01:34  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 11:01:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 11:02:42  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 11:02:42  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 11:02:42  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 11:02:53  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 11:03:02  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 11:03:02  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 11:03:12  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 11:03:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 11:44:22  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 11:44:22  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 11:44:22  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 11:44:34  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-04 11:44:41  [Portal_Test.MainTests] (main:) Already Exists!
-2019-09-04 11:44:41  [Portal_Test.MainTests] (main:) ID Number Already exists
-2019-09-04 11:45:01  [Portal_Test.MainTests] (main:) New Employee added.
-2019-09-04 11:45:03  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 11:45:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:12:41  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:12:41  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:12:41  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:12:53  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:12:54  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:12:54  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:14:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:14:18  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:14:18  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:14:29  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:14:30  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:14:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:15:59  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:15:59  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:15:59  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:16:10  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:16:11  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:16:11  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:17:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:17:25  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:17:25  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:17:36  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:17:52  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:17:52  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:19:40  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:19:40  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:19:40  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:19:51  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:19:52  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:19:57  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:22:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:22:48  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:22:48  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:22:59  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:23:00  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:23:00  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:26:08  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:26:08  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:26:08  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:26:19  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:26:23  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:26:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:29:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:29:23  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:29:23  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:29:34  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:29:35  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:29:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:30:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:30:14  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:30:14  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:30:25  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:30:26  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:30:26  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:32:59  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:32:59  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:32:59  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:33:10  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:33:12  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:33:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:34:21  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:34:21  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:34:21  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:34:33  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:34:34  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:34:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:34:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:34:48  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:34:48  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:34:59  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:35:01  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:35:01  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:35:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:35:15  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:35:15  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:35:26  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:35:27  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:35:27  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:35:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:35:35  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:35:35  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:35:43  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:35:43  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:35:43  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:35:54  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:35:55  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:35:55  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:36:04  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:36:04  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:36:04  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:36:15  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:36:55  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:36:56  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:37:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:37:25  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:37:25  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:37:37  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:37:43  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:38:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:38:07  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:38:07  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:38:18  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:38:22  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:38:26  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 12:51:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 12:51:36  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 12:51:36  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 12:51:46  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 12:51:54  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 12:51:54  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 13:00:17  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 13:00:17  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 13:00:17  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 13:00:29  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 13:00:30  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 13:00:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 13:01:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 13:01:10  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 13:01:10  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 13:01:21  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 13:01:51  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 14:47:42  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 14:47:42  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 14:47:42  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 14:47:55  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-04 14:48:19  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 14:48:19  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:03:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:03:16  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:03:16  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:03:28  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:03:29  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:03:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:04:38  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:04:38  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:04:38  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:04:50  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:04:51  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:04:55  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:05:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:05:07  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:05:07  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:05:18  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:05:19  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:05:19  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:06:42  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:06:42  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:06:42  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:06:53  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:06:55  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:06:55  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:07:38  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:07:38  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:07:38  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:07:50  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:07:52  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:07:52  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:08:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:08:45  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:08:45  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:08:57  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:08:58  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:08:58  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:09:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:09:14  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:09:14  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:09:26  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:09:31  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:09:31  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:12:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:12:12  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:12:12  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:12:23  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:12:40  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:12:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:12:48  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:12:48  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:13:00  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:13:39  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:13:43  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:24:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:24:44  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:24:44  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:24:56  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:25:00  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:25:01  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:25:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:25:48  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:25:48  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:26:00  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:26:04  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:26:04  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:26:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:26:20  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:26:20  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:26:32  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:26:37  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:26:37  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:26:46  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:26:46  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:26:46  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:26:58  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:27:03  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:27:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:27:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:27:14  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:27:14  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:27:26  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:27:32  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:27:32  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:27:41  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:27:41  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:27:41  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:27:53  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:27:59  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:27:59  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:28:52  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:28:52  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:28:52  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:29:04  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:29:10  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:29:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:29:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:29:30  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:29:30  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:29:41  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:29:55  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:29:55  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:30:28  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:30:28  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:30:28  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:30:39  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:31:01  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:31:01  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:34:00  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:34:00  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:34:00  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:34:11  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:34:33  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:34:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:36:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:36:20  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:36:20  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:36:32  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:36:54  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:36:58  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:37:53  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:37:53  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:37:53  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:38:05  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:38:27  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:38:27  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:45:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:45:18  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:45:18  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:45:29  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:45:52  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:45:52  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:46:57  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:46:57  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:46:57  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:47:08  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:47:30  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:47:31  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:48:11  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:48:11  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:48:11  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:48:23  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:48:45  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:48:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:53:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:53:35  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:53:35  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:53:46  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:54:08  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:54:08  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:58:09  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:58:09  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:58:09  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:58:21  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:58:34  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:58:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 15:59:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 15:59:30  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 15:59:30  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 15:59:43  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 15:59:56  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 15:59:56  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 16:10:46  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 16:10:46  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 16:10:46  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 16:10:57  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-04 16:11:10  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 16:11:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 16:17:47  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 16:17:47  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 16:17:47  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 16:17:59  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
-2019-09-04 16:18:06  [Portal_Test.MainTests] (main:) Are you sure you want to deactivate this peson? This action cannot be undone!
-2019-09-04 16:18:06  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 16:18:06  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 16:18:11  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 16:18:11  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 16:18:11  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 16:18:23  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
-2019-09-04 16:18:30  [Portal_Test.MainTests] (main:) Are you sure you want to deactivate this peson? This action cannot be undone!
-2019-09-04 16:18:30  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 16:18:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 16:19:50  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 16:19:50  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 16:19:50  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 16:20:02  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
-2019-09-04 16:20:03  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 16:20:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 16:22:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 16:22:48  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 16:22:48  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 16:23:00  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
-2019-09-04 16:23:01  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 16:23:01  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 16:23:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 16:23:15  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 16:23:15  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 16:23:26  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
-2019-09-04 16:23:27  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 16:23:32  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 16:26:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 16:26:33  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 16:26:33  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 16:26:44  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
-2019-09-04 16:26:45  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 16:26:49  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 16:51:09  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 16:51:09  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 16:51:09  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 16:51:21  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
-2019-09-04 16:51:37  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 16:51:37  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 16:51:50  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 16:51:50  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 16:51:50  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 16:52:01  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
-2019-09-04 16:52:16  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 16:52:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 16:52:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 16:52:30  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 16:52:30  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 16:52:42  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
-2019-09-04 16:52:57  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 16:52:57  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-04 16:53:24  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-04 16:53:24  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-04 16:53:24  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-04 16:53:36  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
-2019-09-04 16:53:43  [Portal_Test.MainTests] (main:) Are you sure you want to reset esmael 's password ?
-2019-09-04 16:53:46  [Portal_Test.MainTests] (main:) Password reset
-2019-09-04 16:53:46  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-04 16:53:46  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 11:19:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 11:19:16  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 11:19:16  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 11:19:27  [Portal_Test.MainTests] (main:) ----------- 		Asset Filtering
-2019-09-05 11:19:29  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 11:19:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 11:19:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 11:19:48  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 11:19:48  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 11:19:59  [Portal_Test.MainTests] (main:) ----------- 		Asset Filtering
-2019-09-05 11:20:05  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 11:20:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 11:20:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 11:20:18  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 11:20:18  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 11:20:30  [Portal_Test.MainTests] (main:) ----------- 		Asset Filtering
-2019-09-05 11:20:36  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 11:20:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 11:20:49  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 11:20:49  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 11:20:49  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 11:21:00  [Portal_Test.MainTests] (main:) ----------- 		Asset Filtering
-2019-09-05 11:21:07  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 11:21:08  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 11:27:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 11:27:03  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 11:27:03  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 11:27:15  [Portal_Test.MainTests] (main:) ----------- 		Asset Filtering
-2019-09-05 11:27:22  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 11:27:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 13:20:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 13:20:10  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 13:20:10  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 13:20:22  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
-2019-09-05 13:20:26  [Portal_Test.MainTests] (main:) 	Asset Filtering
-2019-09-05 13:20:29  [Portal_Test.MainTests] (main:) 	Adding Asset.....
-2019-09-05 13:20:36  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 13:20:37  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 13:20:49  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 13:20:49  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 13:20:49  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 13:21:00  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
-2019-09-05 13:21:05  [Portal_Test.MainTests] (main:) 	Asset Filtering
-2019-09-05 13:21:20  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 13:21:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 13:23:58  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 13:23:58  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 13:23:58  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 13:24:10  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
-2019-09-05 13:24:14  [Portal_Test.MainTests] (main:) 	Asset Filtering
-2019-09-05 13:24:17  [Portal_Test.MainTests] (main:) 	Adding Asset.....
-2019-09-05 13:24:25  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 13:24:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 13:24:47  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 13:24:47  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 13:24:47  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 13:24:59  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
-2019-09-05 13:25:03  [Portal_Test.MainTests] (main:) 	Asset Filtering
-2019-09-05 13:25:06  [Portal_Test.MainTests] (main:) 	Adding Asset.....
-2019-09-05 13:25:14  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 13:25:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 14:05:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 14:05:20  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 14:05:20  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 14:05:31  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
-2019-09-05 14:05:35  [Portal_Test.MainTests] (main:) 	Adding new Asset Type
-2019-09-05 14:05:42  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 14:05:42  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 14:35:28  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 14:35:28  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 14:35:28  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 14:35:40  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
-2019-09-05 14:35:44  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
-2019-09-05 14:35:47  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
-2019-09-05 14:35:50  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 14:35:50  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 14:36:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 14:36:23  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 14:36:23  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 14:36:35  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
-2019-09-05 14:36:39  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
-2019-09-05 14:36:42  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
-2019-09-05 14:36:45  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 14:36:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-05 14:51:46  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-05 14:51:46  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-05 14:51:46  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-05 14:51:58  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
-2019-09-05 14:52:01  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
-2019-09-05 14:52:05  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
-2019-09-05 14:52:08  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-05 14:52:08  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-08 10:40:28  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-08 10:40:28  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-08 10:40:28  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-08 10:40:39  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
-2019-09-08 10:40:43  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
-2019-09-08 10:40:46  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
-2019-09-08 10:40:50  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-08 10:40:50  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-08 10:43:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-08 10:43:15  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-08 10:43:15  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-08 10:43:26  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
-2019-09-08 10:43:30  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
-2019-09-08 10:43:33  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
-2019-09-08 10:43:36  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-08 10:43:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-2019-09-08 10:46:29  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-2019-09-08 10:46:29  [Portal_Test.MainTests] (main:) TEST Has Started
-2019-09-08 10:46:29  [Portal_Test.MainTests] (main:) Open Web Application
-2019-09-08 10:46:40  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
-2019-09-08 10:46:43  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
-2019-09-08 10:46:47  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
-2019-09-08 10:46:53  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
-2019-09-08 10:46:57  [Portal_Test.MainTests] (main:) 	Adding new Asset Type
-2019-09-08 10:47:06  [Portal_Test.MainTests] (main:) ----------- 		Add New PDF
-2019-09-08 10:47:10  [Portal_Test.MainTests] (main:) 	Adding new PDF Laptop
-2019-09-08 10:47:17  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
-2019-09-08 10:47:32  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
-2019-09-08 10:47:47  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
-2019-09-08 10:48:02  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
-2019-09-08 10:48:17  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
-2019-09-08 10:48:32  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
-2019-09-08 10:48:58  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
-2019-09-08 10:49:13  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
-2019-09-08 10:49:24  [Portal_Test.MainTests] (main:) TEST PASSED
-2019-09-08 10:49:24  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 2019-09-08 10:59:51  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 2019-09-08 10:59:51  [Portal_Test.MainTests] (main:) TEST Has Started
@@ -2454,4 +776,231 @@
 2019-09-11 11:18:51  [Portal_Test.MainTests] (main:) --	 Removing a checklist
 2019-09-11 11:18:54  [Portal_Test.MainTests] (main:) TEST PASSED
 2019-09-11 11:18:54  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:23:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:23:39  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:23:39  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:23:51  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-11 12:23:55  [Portal_Test.MainTests] (main:) Login fail using Email
+2019-09-11 12:23:55  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-11 12:24:14  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:24:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:24:51  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:24:51  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:24:51  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:25:02  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-11 12:25:06  [Portal_Test.MainTests] (main:) Login fail using Email
+2019-09-11 12:25:06  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-11 12:25:14  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:25:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:26:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:26:35  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:26:35  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:26:47  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-11 12:26:51  [Portal_Test.MainTests] (main:) Login fail using Email
+2019-09-11 12:26:51  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-11 12:26:58  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
+2019-09-11 12:27:05  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:27:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:27:13  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:27:13  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:27:13  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:27:25  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-11 12:27:28  [Portal_Test.MainTests] (main:) Login fail using Email
+2019-09-11 12:27:29  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-11 12:27:36  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
+2019-09-11 12:27:43  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:27:43  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:28:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:28:33  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:28:33  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:28:45  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
+2019-09-11 12:28:53  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-11 12:28:56  [Portal_Test.MainTests] (main:) Login fail using Email
+2019-09-11 12:28:56  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-11 12:29:04  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:29:04  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:29:59  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:29:59  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:29:59  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:30:11  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
+2019-09-11 12:30:20  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:30:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:30:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:30:33  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:30:33  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:30:45  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
+2019-09-11 12:30:53  [Portal_Test.MainTests] (main:) Already Exists!
+2019-09-11 12:30:53  [Portal_Test.MainTests] (main:) ID Number Already exists
+2019-09-11 12:31:01  [Portal_Test.MainTests] (main:) New Employee added.
+2019-09-11 12:31:07  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:31:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:32:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:32:36  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:32:36  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:32:48  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
+2019-09-11 12:33:12  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:33:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:33:28  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:33:28  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:33:28  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:33:40  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
+2019-09-11 12:34:03  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:34:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:36:32  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:36:32  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:36:32  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:36:43  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
+2019-09-11 12:37:08  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:37:13  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:38:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:38:03  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:38:03  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:38:15  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
+2019-09-11 12:38:39  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:38:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:39:24  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:39:24  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:39:24  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:39:37  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
+2019-09-11 12:39:53  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:39:53  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:40:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:40:14  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:40:14  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:40:25  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
+2019-09-11 12:40:33  [Portal_Test.MainTests] (main:) Are you sure you want to reset esmael 's password ?
+2019-09-11 12:40:36  [Portal_Test.MainTests] (main:) Password reset
+2019-09-11 12:40:39  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:40:39  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:41:21  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:41:21  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:41:21  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:41:33  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-11 12:41:37  [Portal_Test.MainTests] (main:) 	Asset Filtering
+2019-09-11 12:41:40  [Portal_Test.MainTests] (main:) 	Adding Asset.....
+2019-09-11 12:41:51  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:41:51  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:42:13  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:42:13  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:42:13  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:42:24  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:42:24  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:42:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:42:33  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:42:33  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:42:45  [Portal_Test.MainTests] (main:) ----------- 		Add New PDF
+2019-09-11 12:42:49  [Portal_Test.MainTests] (main:) 	Adding new PDF Laptop
+2019-09-11 12:42:57  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:42:57  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:44:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:44:05  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:44:05  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:44:17  [Portal_Test.MainTests] (main:) ----------- 		Add New PDF
+2019-09-11 12:44:21  [Portal_Test.MainTests] (main:) 	Adding new PDF Laptop
+2019-09-11 12:44:36  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:44:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:45:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:45:30  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:45:30  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:45:43  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
+2019-09-11 12:45:47  [Portal_Test.MainTests] (main:) 	Adding new Asset Type
+2019-09-11 12:45:57  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:45:57  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:46:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:46:18  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:46:18  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:46:30  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-11 12:46:34  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-11 12:46:38  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-11 12:46:53  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:46:53  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:47:46  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:47:46  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:47:46  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:47:58  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-11 12:48:02  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-11 12:48:05  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-11 12:48:12  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:48:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:48:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:48:44  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:48:44  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:48:56  [Portal_Test.MainTests] (main:) ----------- 		Inventory Comparison
+2019-09-11 12:49:00  [Portal_Test.MainTests] (main:) Search for inventory
+2019-09-11 12:49:03  [Portal_Test.MainTests] (main:) Printing report
+2019-09-11 12:49:07  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:49:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:49:27  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:49:27  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:49:27  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:49:39  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-11 12:49:49  [Portal_Test.MainTests] (main:) ----------- 		Sending Email...
+2019-09-11 12:49:49  [Portal_Test.MainTests] (main:) -- Invalid address !!!
+2019-09-11 12:50:05  [Portal_Test.MainTests] (main:) Email test passed
+2019-09-11 12:50:08  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:50:08  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-11 12:52:40  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 12:52:40  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 12:52:40  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 12:52:52  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-11 12:52:56  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-11 12:53:00  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-11 12:53:07  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
+2019-09-11 12:53:11  [Portal_Test.MainTests] (main:) 	Adding new Asset Type
+2019-09-11 12:53:21  [Portal_Test.MainTests] (main:) ----------- 		Add New PDF
+2019-09-11 12:53:25  [Portal_Test.MainTests] (main:) 	Adding new PDF Laptop
+2019-09-11 12:53:39  [Portal_Test.MainTests] (main:) --	 Skipping Add new PDF error in server
+2019-09-11 12:53:39  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-11 12:53:43  [Portal_Test.MainTests] (main:) 	Asset Filtering
+2019-09-11 12:53:46  [Portal_Test.MainTests] (main:) 	Adding Asset.....
+2019-09-11 12:53:58  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-11 12:54:04  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-11 12:54:05  [Portal_Test.MainTests] (main:) ----------- 		Checklist
+2019-09-11 12:54:12  [Portal_Test.MainTests] (main:) --	 Inside Checklist
+2019-09-11 12:54:14  [Portal_Test.MainTests] (main:) --	 adding group to checklist
+2019-09-11 12:54:18  [Portal_Test.MainTests] (main:) Group is: Already Exists!
+2019-09-11 12:54:20  [Portal_Test.MainTests] (main:) --	 Removing a group
+2019-09-11 12:54:25  [Portal_Test.MainTests] (main:) --	 Removing a checklist
+2019-09-11 12:54:28  [Portal_Test.MainTests] (main:) ----------- 		Inventory Comparison
+2019-09-11 12:54:32  [Portal_Test.MainTests] (main:) Search for inventory
+2019-09-11 12:54:36  [Portal_Test.MainTests] (main:) Printing report
+2019-09-11 12:54:39  [Portal_Test.MainTests] (main:) ----------- 		Inside Inventory & Stocking
+2019-09-11 12:54:54  [Portal_Test.MainTests] (main:) --  Checked who is active
+2019-09-11 12:54:54  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-11 12:55:07  [Portal_Test.MainTests] (main:) ----------- 		Sending Email...
+2019-09-11 12:55:07  [Portal_Test.MainTests] (main:) -- Invalid address !!!
+2019-09-11 12:55:17  [Portal_Test.MainTests] (main:) Email test passed
+2019-09-11 12:55:20  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
+2019-09-11 12:55:22  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
+2019-09-11 12:55:31  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
+2019-09-11 12:55:41  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
+2019-09-11 12:55:53  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
+2019-09-11 12:56:07  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-11 12:56:10  [Portal_Test.MainTests] (main:) Login fail using Email
+2019-09-11 12:56:10  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-11 12:56:17  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 12:56:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
