@@ -1004,3 +1004,77 @@
 2019-09-11 12:56:17  [Portal_Test.MainTests] (main:) TEST PASSED
 2019-09-11 12:56:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
+2019-09-11 14:51:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 14:51:36  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 14:51:36  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 14:51:48  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-11 14:51:52  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-11 14:51:56  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-11 14:52:03  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
+2019-09-11 14:52:07  [Portal_Test.MainTests] (main:) 	Adding new Asset Type
+2019-09-11 14:52:17  [Portal_Test.MainTests] (main:) ----------- 		Add New PDF
+2019-09-11 14:52:21  [Portal_Test.MainTests] (main:) 	Adding new PDF Laptop
+2019-09-11 14:52:35  [Portal_Test.MainTests] (main:) --	 Skipping Add new PDF error in server
+2019-09-11 14:52:35  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-11 14:52:39  [Portal_Test.MainTests] (main:) 	Asset Filtering
+2019-09-11 14:52:43  [Portal_Test.MainTests] (main:) 	Adding Asset.....
+2019-09-11 14:52:54  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-11 14:53:01  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-11 14:53:31  [Portal_Test.MainTests] (main:) ----------- 		Checklist
+2019-09-11 14:53:32  [Portal_Test.MainTests] (main:) ----------- 		Inventory Comparison
+2019-09-11 14:53:32  [Portal_Test.MainTests] (main:) ----------- 		Inside Inventory & Stocking
+2019-09-11 14:53:33  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-11 14:53:33  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
+2019-09-11 14:53:34  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
+2019-09-11 14:53:34  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
+2019-09-11 14:53:34  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
+2019-09-11 14:53:34  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
+2019-09-11 14:53:35  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-11 14:53:35  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-11 14:53:36  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 14:54:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-11 14:54:07  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-11 14:54:07  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-11 14:54:20  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-11 14:54:24  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-11 14:54:28  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-11 14:54:34  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
+2019-09-11 14:54:38  [Portal_Test.MainTests] (main:) 	Adding new Asset Type
+2019-09-11 14:54:49  [Portal_Test.MainTests] (main:) ----------- 		Add New PDF
+2019-09-11 14:54:53  [Portal_Test.MainTests] (main:) 	Adding new PDF Laptop
+2019-09-11 14:55:07  [Portal_Test.MainTests] (main:) --	 Skipping Add new PDF error in server
+2019-09-11 14:55:07  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-11 14:55:13  [Portal_Test.MainTests] (main:) 	Asset Filtering
+2019-09-11 14:55:17  [Portal_Test.MainTests] (main:) 	Adding Asset.....
+2019-09-11 14:55:38  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-11 14:55:45  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-11 14:57:48  [Portal_Test.MainTests] (main:) -- User Permission Updated...
+2019-09-11 14:57:50  [Portal_Test.MainTests] (main:) -- Deleting User...
+2019-09-11 14:57:52  [Portal_Test.MainTests] (main:) -- User is deleted
+2019-09-11 14:57:54  [Portal_Test.MainTests] (main:) --------	 Adding New User
+2019-09-11 14:57:59  [Portal_Test.MainTests] (main:) ???
+2019-09-11 14:57:59  [Portal_Test.MainTests] (main:) -- User already exist!!!
+2019-09-11 14:58:05  [Portal_Test.MainTests] (main:) ----------- 		Checklist
+2019-09-11 14:58:07  [Portal_Test.MainTests] (main:) --	 Inside Checklist
+2019-09-11 14:58:09  [Portal_Test.MainTests] (main:) --	 adding group to checklist
+2019-09-11 14:58:13  [Portal_Test.MainTests] (main:) Group is: Already Exists!
+2019-09-11 14:58:15  [Portal_Test.MainTests] (main:) --	 Removing a group
+2019-09-11 14:58:20  [Portal_Test.MainTests] (main:) --	 Removing a checklist
+2019-09-11 14:58:23  [Portal_Test.MainTests] (main:) ----------- 		Inventory Comparison
+2019-09-11 14:58:27  [Portal_Test.MainTests] (main:) Search for inventory
+2019-09-11 14:58:30  [Portal_Test.MainTests] (main:) Printing report
+2019-09-11 14:58:33  [Portal_Test.MainTests] (main:) ----------- 		Inside Inventory & Stocking
+2019-09-11 14:58:40  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-11 14:58:50  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
+2019-09-11 14:59:09  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
+2019-09-11 14:59:19  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
+2019-09-11 14:59:29  [Portal_Test.MainTests] (main:) Are you sure you want to reset esmael 's password ?
+2019-09-11 14:59:32  [Portal_Test.MainTests] (main:) Password reset
+2019-09-11 14:59:36  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
+2019-09-11 14:59:44  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
+2019-09-11 14:59:59  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-11 15:00:03  [Portal_Test.MainTests] (main:) Login fail using Email
+2019-09-11 15:00:03  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-11 15:00:10  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-11 15:00:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+

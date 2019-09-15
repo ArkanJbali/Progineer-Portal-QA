@@ -12,54 +12,54 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 
-public class Check_employees {
+public class CheckEmployees {
 private static WebElement element = null;
 	
-	public static WebElement go_to_AllEmployees(WebDriver driver) {
+	public static WebElement goToAllEmployees(WebDriver driver) {
 		element = driver.findElement(By.xpath("/html/body/div[2]/div[1]/ul/li[1]"));
 		return element;
 	}
-	public static WebElement search_emp(WebDriver driver) {
+	public static WebElement searchEmployee(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"data_tp_2_filter\"]/label/input")); 
 		return element;
 	}
 	
-	public static WebElement add_btn(WebDriver driver) {
+	public static WebElement addButton(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"add_emp\"]"));
 		return element;
 	}
 	
-	public static WebElement name_input(WebDriver driver) {
+	public static WebElement nameInput(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"nameEmp\"]"));
 		return element;
 	}
 	
-	public static WebElement IDNo_input(WebDriver driver) {
+	public static WebElement IDInput(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"ID_Number\"]"));
 		return element;
 	}
 	
-	public static WebElement start_date(WebDriver driver) {
+	public static WebElement startDate(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Starting_Date\"]"));
 		return element;
 	}
 	
-	public static WebElement pick_location(WebDriver driver) {
+	public static WebElement pickLocation(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"location\"]/option[3]"));
 		return element;
 	}
 	
-	public static WebElement pick_group(WebDriver driver) {
+	public static WebElement pickGroup(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"group\"]/option[4]"));
 		return element;
 	}
 	
-	public static WebElement pick_manager_id(WebDriver driver) {
+	public static WebElement pickManagerId(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"select2-manager_id-container\"]"));
 		return element;
 	}
 	
-	public static WebElement job_title(WebDriver driver) {
+	public static WebElement jobTitle(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"job_title\"]"));
 		return element;
 	}
@@ -69,21 +69,21 @@ private static WebElement element = null;
 		return element;
 	}
 	
-	public static WebElement Continue_Option(WebDriver driver) {
+	public static WebElement continueOption(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Add_emp_dataaddform\"]/td[10]/div/input[1]"));
 		return element;
 	}
 	
-	public static WebElement Done_Option(WebDriver driver) {
+	public static WebElement doneOption(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Add_emp_dataaddform\"]/td[10]/div/input[2]"));
 		return element;
 	}
-	public static List<WebElement> Deactive_btn(WebDriver driver) {
+	public static List<WebElement> deactiveButton(WebDriver driver) {
 		List<WebElement> elements = driver.findElements(By.xpath("//*[@id=\"list_show\"]/a"));
 		
 		return elements;
 	}
-	public static WebElement CheckList_for_Leaving(WebDriver driver) throws InterruptedException {
+	public static WebElement checkListForLeaving(WebDriver driver) throws InterruptedException {
 		driver.findElement(By.xpath("//*[@id=\"btn_17\"]")).click();
 		Thread.sleep(1000); 
 		driver.findElement(By.xpath("//*[@id=\"btn_16\"]")).click();
@@ -114,16 +114,16 @@ private static WebElement element = null;
 		Thread.sleep(1000); 
 		return element;
 	}
-	public static List<WebElement> Employee_Assets_btn(WebDriver driver) {
+	public static List<WebElement> employeeAssetsButton(WebDriver driver) {
 		List<WebElement> elements = driver.findElements(By.xpath("//*[@id=\"data_tp_2\"]/tbody/tr/td/a"));
 		return elements;
 	}
-	public static WebElement Add_Headset(WebDriver driver) {
+	public static WebElement addHeadset(WebDriver driver) {
 		element = driver.findElement(By.xpath("//input[@value='Add Headset ']"));
 		//element = driver.findElement(By.className("tcat"));
 		return element;
 	}
-	public static WebElement Select_Headset(WebDriver driver) {
+	public static WebElement selectHeadset(WebDriver driver) {
 		/*Select select = new Select(driver.findElement(By.xpath("//*[@id=\"SelectTag\"]")));
 		element = select.getFirstSelectedOption();
 		String defaultItem = element.getText();
@@ -133,12 +133,12 @@ private static WebElement element = null;
 		element = driver.findElement(By.xpath("//*[@id=\"SelectTag\"]"));
 		return element;
 	}
-	public static WebElement Add_Headset_btn(WebDriver driver) {
+	public static WebElement addHeadsetButton(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"myModal_data\"]/div/button"));
 		return element;
 	}
 	
-	public static List<WebElement> Reset_Password(WebDriver driver) {
+	public static List<WebElement> resetPassword(WebDriver driver) {
 		List<WebElement> elements = driver.findElements(By.xpath("//div[2]/a/img"));
 		return elements;
 	}
@@ -172,7 +172,7 @@ private static WebElement element = null;
 	       alert.accept();
 		return alertTxt;
 	}
-	public static String Deactive_alertMessage(WebDriver driver) {
+	public static String deactiveAlertMessage(WebDriver driver) {
 		 Alert alert = (Alert) driver.switchTo().alert();  
 	        //Using accept() method to accept the alert box  
 		 	String alertTxt = alert.getText();

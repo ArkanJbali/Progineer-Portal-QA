@@ -6,7 +6,7 @@ import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class Check_assets {
+public class CheckAssets {
 	
 	private static WebElement element = null;
 	

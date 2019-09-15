@@ -12,54 +12,54 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class Check_Users {
+public class CheckUsers {
 	
 private static WebElement element = null;
 	
-	public static WebElement go_to_users(WebDriver driver) {
+	public static WebElement goToUsers(WebDriver driver) {
 		element = driver.findElement(By.xpath("/html/body/div[2]/div[1]/ul/li[3]"));
 		return element;
 	}
 	
-	public static List<WebElement> go_to_usersPermission(WebDriver driver) {
+	public static List<WebElement> goToUsersPermission(WebDriver driver) {
 		List<WebElement> elements = driver.findElements(By.xpath("//*[@title=\"User Permissions\"]"));
 		return elements;
 	}
-	public static WebElement get_CurrentPermission(WebDriver driver,int row, int column) {
+	public static WebElement getCurrentPermission(WebDriver driver,int row, int column) {
 		element = driver.findElement(By.xpath("//*[@id='data_tp']/tbody/tr[" + row + "]/td["+ column +"]/div"));
 		return element;
 	}
-	public static WebElement select_No_Access(WebDriver driver,int row, int column) {
+	public static WebElement selectNoAccess(WebDriver driver,int row, int column) {
 		element = driver.findElement(By.xpath("//*[@id=\"data_tp\"]/tbody/tr[" + row + "]/td["+ column + "]//*[@id=\"selectingAsset\"]/option[3]"));
 		return element;
 	}
-	public static WebElement select_Read_Only(WebDriver driver,int row, int column) {
+	public static WebElement selectReadOnly(WebDriver driver,int row, int column) {
 		element = driver.findElement(By.xpath("//*[@id=\"data_tp\"]/tbody/tr[" + row + "]/td["+ column + "]//*[@id=\"selectingAsset\"]/option[1]"));
 		return element;
 	}
-	public static WebElement select_Read_Write(WebDriver driver,int row, int column) {
+	public static WebElement selectReadWrite(WebDriver driver,int row, int column) {
 		element = driver.findElement(By.xpath("//*[@id=\"data_tp\"]/tbody/tr[" + row + "]/td["+ column + "]//*[@id=\"selectingAsset\"]/option[2]"));
 		return element;
 	}
-	public static WebElement press_Update_Btn(WebDriver driver,int row, int column) {
+	public static WebElement pressUpdateButton(WebDriver driver,int row, int column) {
 		element = driver.findElement(By.xpath("//*[@id=\"data_tp\"]/tbody/tr[" + row + "]/td["+ column + "]/div/button"));
 		return element;
 	}
-	public static void Compare_Permission(WebDriver driver) throws InterruptedException{
+	public static void comparePermission(WebDriver driver) throws InterruptedException{
 		String currentPermission = "";
 		//String selectedPermission = "";
-		for(int i=1; i<=8; i++) {
-			for(int j=2; j<=3 ; j++) {
-				if(j == 2) {
+		for(int row = 1; row <= 8; row++) {
+			for(int column = 2; column <= 3 ; column++) {
+				if(column == 2) {
 					Thread.sleep(2000);
-					currentPermission = get_CurrentPermission(driver, i, j).getText().toString();
+					currentPermission = getCurrentPermission(driver, row, column).getText().toString();
 					Thread.sleep(2000);
 					if(!currentPermission.equals("")) {
 					if(!currentPermission.equals("Read Only")) {
 						Thread.sleep(2000);
-						select_Read_Only(driver, i, j+1).click();
+						selectReadOnly(driver, row, column+1).click();
 						Thread.sleep(2000);
-						press_Update_Btn(driver, i, j+1).click();
+						pressUpdateButton(driver, row, column+1).click();
 						Thread.sleep(2000);
 						if(isAlertPresent(driver)) {
 							Alert alert = (Alert) driver.switchTo().alert();  
@@ -68,9 +68,9 @@ private static WebElement element = null;
 						}
 					}else if(!currentPermission.equals("Read & Write")) {
 						Thread.sleep(2000);
-						select_Read_Write(driver, i, j+1).click();
+						selectReadWrite(driver, row, column+1).click();
 						Thread.sleep(2000);
-						press_Update_Btn(driver, i, j+1).click();
+						pressUpdateButton(driver, row, column+1).click();
 						Thread.sleep(2000);
 						if(isAlertPresent(driver)) {
 							Alert alert = (Alert) driver.switchTo().alert();  
@@ -79,9 +79,9 @@ private static WebElement element = null;
 						}
 					}else if(!currentPermission.equals("No Access")){
 						Thread.sleep(2000);
-						select_No_Access(driver, i, j+1).click();
+						selectNoAccess(driver, row, column+1).click();
 						Thread.sleep(2000);
-						press_Update_Btn(driver, i, j+1).click();
+						pressUpdateButton(driver, row, column+1).click();
 						Thread.sleep(2000);
 						if(isAlertPresent(driver)) {
 							Alert alert = (Alert) driver.switchTo().alert();  
@@ -101,7 +101,7 @@ private static WebElement element = null;
 		}
 		
 	}
-	public static List<WebElement> delete_User(WebDriver driver) {
+	public static List<WebElement> deleteUser(WebDriver driver) {
 		List<WebElement> elements = driver.findElements(By.xpath("//*[@id=\"list_show\"]/a/img[@title=\"Delete\"]"));
 		return elements;
 	}
@@ -117,32 +117,32 @@ private static WebElement element = null;
 	        return false; 
 	    }   // catch 
 	} 
-	public static WebElement add_Btn(WebDriver driver) {
+	public static WebElement addButton(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"add_item\"]"));
 		return element;
 	}
-	public static WebElement name_input(WebDriver driver) {
+	public static WebElement nameInput(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"name\"]"));
 		return element;
 	}
-	public static WebElement UserName_input(WebDriver driver) {
+	public static WebElement userNameInput(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"usr_name\"]"));
 		return element;
 	}
-	public static WebElement password_input(WebDriver driver) {
+	public static WebElement passwordInput(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"pass\"]"));
 		return element;
 	}
-	public static WebElement role_pick(WebDriver driver) {
+	public static WebElement rolePick(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"type\"]/option[2]"));
 		return element;
 	}
-	public static WebElement add_new_user_Btn(WebDriver driver) {
+	public static WebElement addNewUserButton(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Add_item_dataaddform\"]/td[6]/input"));
 		return element;
 	}
 	
-	public static WebElement invalid_User(WebDriver driver)throws Exception {
+	public static WebElement invalidUser(WebDriver driver)throws Exception {
 		   try {
 		      element = driver.findElement(By.xpath("//*[@id=\"data_div\"]/div/table/tbody/tr[1]/td[@class='tcat']")); 
 		      return element;
@@ -151,7 +151,7 @@ private static WebElement element = null;
 		     // Logger.error("Link is not found.");
 		      // Take a screenshot which will be helpful for analysis.
 		      File screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-		      FileUtils.copyFile(screenshot, new File("C:\\Users\\arkan\\Progineer-Workspace\\repository\\1.1\\src\\main\\java\\ScreenShots\\screenshot_"+Check_Users.class.getName()+".jpg"));
+		      FileUtils.copyFile(screenshot, new File("C:\\Users\\arkan\\Progineer-Workspace\\repository\\1.1\\src\\main\\java\\ScreenShots\\screenshot_"+CheckUsers.class.getName()+".jpg"));
 		      throw(e1);
 		   }
 	}

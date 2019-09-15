@@ -9,9 +9,8 @@
           <include name="lunchApp"/>
           <include name="Inventory_Stocking"/>
           <include name="deactive_employee"/>
-          <include name="Check_Users"/>
+          <include name="Test_Email"/>
           <include name="terminatetest"/>
-          <include name="reset_password"/>
           <include name="Add_new_PDF"/>
           <include name="employee_assets"/>
         </methods>

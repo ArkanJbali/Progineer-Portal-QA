@@ -4,15 +4,15 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class Check_Inventory_Comparison {
+public class CheckInventoryComparison {
 private static WebElement element = null;
 	
-	public static WebElement go_to_InventoryComparison(WebDriver driver) {
+	public static WebElement goToInventoryComparison(WebDriver driver) {
 		element = driver.findElement(By.xpath("/html/body/div[2]/div[1]/ul/li[7]"));
 		return element;
 	}
 	
-	public static WebElement search_for_Inventory(WebDriver driver) {
+	public static WebElement searchForInventory(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"data_tp_filter\"]/label/input"));
 		return element;
 	}
