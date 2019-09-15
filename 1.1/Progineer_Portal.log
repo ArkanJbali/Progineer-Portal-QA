@@ -1078,3 +1078,59 @@
 2019-09-11 15:00:10  [Portal_Test.MainTests] (main:) TEST PASSED
 2019-09-11 15:00:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
+2019-09-15 16:32:27  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-15 16:32:27  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-15 16:32:27  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-15 16:32:40  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
+2019-09-15 16:32:54  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-15 16:33:10  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
+2019-09-15 16:33:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-15 16:33:20  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-15 16:33:20  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-15 16:33:31  [Portal_Test.MainTests] (main:) ----------- 		Employee Assets
+2019-09-15 16:33:48  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset
+2019-09-15 16:33:52  [Portal_Test.MainTests] (main:) 	Asset Filtering
+2019-09-15 16:33:55  [Portal_Test.MainTests] (main:) 	Adding Asset.....
+2019-09-15 16:34:07  [Portal_Test.MainTests] (main:) ----------- 		Add New Asset Type
+2019-09-15 16:34:11  [Portal_Test.MainTests] (main:) 	Adding new Asset Type
+2019-09-15 16:34:21  [Portal_Test.MainTests] (main:) ----------- 		Add New Group
+2019-09-15 16:34:25  [Portal_Test.MainTests] (main:) ----------- 		Adding New Group
+2019-09-15 16:34:29  [Portal_Test.MainTests] (main:) ----------- 		Add Empty Group
+2019-09-15 16:34:35  [Portal_Test.MainTests] (main:) ----------- 		Add New PDF
+2019-09-15 16:34:39  [Portal_Test.MainTests] (main:) 	Adding new PDF Laptop
+2019-09-15 16:34:54  [Portal_Test.MainTests] (main:) --	 Skipping Add new PDF error in server
+2019-09-15 16:34:54  [Portal_Test.MainTests] (main:) ----------- 		Update User Permissions
+2019-09-15 16:35:00  [Portal_Test.MainTests] (main:) -- Inside User Permission
+2019-09-15 16:37:02  [Portal_Test.MainTests] (main:) -- User Permission Updated...
+2019-09-15 16:37:05  [Portal_Test.MainTests] (main:) -- Deleting User...
+2019-09-15 16:37:08  [Portal_Test.MainTests] (main:) -- User is deleted
+2019-09-15 16:37:11  [Portal_Test.MainTests] (main:) --------	 Adding New User
+2019-09-15 16:37:14  [Portal_Test.MainTests] (main:) ???
+2019-09-15 16:37:14  [Portal_Test.MainTests] (main:) -- User already exist!!!
+2019-09-15 16:37:18  [Portal_Test.MainTests] (main:) ----------- 		Checklist
+2019-09-15 16:37:21  [Portal_Test.MainTests] (main:) --	 Inside Checklist
+2019-09-15 16:37:24  [Portal_Test.MainTests] (main:) --	 adding group to checklist
+2019-09-15 16:37:31  [Portal_Test.MainTests] (main:) Group is: Already Exists!
+2019-09-15 16:37:34  [Portal_Test.MainTests] (main:) --	 Removing a group
+2019-09-15 16:37:37  [Portal_Test.MainTests] (main:) --	 Removing a checklist
+2019-09-15 16:37:40  [Portal_Test.MainTests] (main:) ----------- 		Deactivate an Employee
+2019-09-15 16:37:41  [Portal_Test.MainTests] (main:) ----------- 		Inventory Comparison
+2019-09-15 16:37:48  [Portal_Test.MainTests] (main:) Search for inventory
+2019-09-15 16:37:51  [Portal_Test.MainTests] (main:) Printing report
+2019-09-15 16:37:54  [Portal_Test.MainTests] (main:) ----------- 		Inside Inventory & Stocking
+2019-09-15 16:38:11  [Portal_Test.MainTests] (main:) --  Checked who is active
+2019-09-15 16:38:11  [Portal_Test.MainTests] (main:) ----------- 		Employee Rest Password
+2019-09-15 16:38:18  [Portal_Test.MainTests] (main:) Are you sure you want to reset esmael 's password ?
+2019-09-15 16:38:21  [Portal_Test.MainTests] (main:) Password reset
+2019-09-15 16:38:24  [Portal_Test.MainTests] (main:) ----------- 		Test Email
+2019-09-15 16:38:33  [Portal_Test.MainTests] (main:) ----------- 		Sending Email...
+2019-09-15 16:38:34  [Portal_Test.MainTests] (main:) -- Invalid address !!!
+2019-09-15 16:38:44  [Portal_Test.MainTests] (main:) Email test passed
+2019-09-15 16:38:47  [Portal_Test.MainTests] (main:) ----------- 		Adding new Employee
+2019-09-15 16:38:55  [Portal_Test.MainTests] (main:) ----------- 	 Check Search an employee
+2019-09-15 16:39:05  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using Email
+2019-09-15 16:39:09  [Portal_Test.MainTests] (main:) Login fail using Email
+2019-09-15 16:39:09  [Portal_Test.MainTests] (main:) ----------- 	 Check Login Using UserName
+2019-09-15 16:39:16  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-15 16:39:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+

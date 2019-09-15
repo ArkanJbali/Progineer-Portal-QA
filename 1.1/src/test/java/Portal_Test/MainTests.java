@@ -69,33 +69,33 @@ public class MainTests {
 		driver.manage().window().maximize();  
 	}
 	@Test
-	public void Checklist() throws InterruptedException {
+	public void checklist() throws InterruptedException {
 		logger.info("----------- \t	Checklist");
 		portalLogin();
 		ThreadSleep();
 		logger.info("--	 Inside Checklist");
-		CheckChecklist.go_to_Checklist(driver).click();
+		CheckChecklist.goToChecklist(driver).click();
 		ThreadSleep();
 		logger.info("--	 adding group to checklist");
-		CheckChecklist.select_Group(driver).click();
+		CheckChecklist.selectGroup(driver).click();
 		ThreadSleep();
-		CheckChecklist.add_Group_Btn(driver).click();
+		CheckChecklist.addGroupButton(driver).click();
 		ThreadSleep();
 		if(CheckChecklist.isAlertPresent(driver)) {
-			logger.info("Group is: " + CheckChecklist.Exist_alertMessage(driver));
+			logger.info("Group is: " + CheckChecklist.existAlertMessage(driver));
 		}
 		ThreadSleep();
 		logger.info("--	 Removing a group");
-		CheckChecklist.remove_Group(driver).click();
+		CheckChecklist.removeGroup(driver).click();
 		ThreadSleep();
 		logger.info("--	 Removing a checklist");
 		Actions actions = new Actions(driver);
-		actions.moveToElement(CheckChecklist.Remove_CheckList(driver)).click().build().perform();
+		actions.moveToElement(CheckChecklist.removeCheckList(driver)).click().build().perform();
 		ThreadSleep();
 		portalLogout();
 	}
 	@Test
-	public void Inventory_Stocking() throws InterruptedException {
+	public void inventoryStocking() throws InterruptedException {
 		logger.info("----------- \t	Inside Inventory & Stocking");
 		portalLogin();
 		ThreadSleep();
@@ -114,7 +114,7 @@ public class MainTests {
 		portalLogout();
 	}
 	@Test 
-	public void Check_Users() throws InterruptedException {
+	public void checkUsers() throws InterruptedException {
 		logger.info("----------- \t	Update User Permissions");
 		portalLogin();
 		ThreadSleep();
@@ -161,7 +161,7 @@ public class MainTests {
 	}
 	
 	@Test
-	public void Test_Email() throws InterruptedException {
+	public void testEmail() throws InterruptedException {
 		logger.info("----------- \t	Test Email");
 		portalLogin();
 		ThreadSleep();
@@ -188,7 +188,7 @@ public class MainTests {
 	}
 	
 	@Test
-	public void Inventory_Comparison() throws InterruptedException {
+	public void inventoryComparison() throws InterruptedException {
 		logger.info("----------- \t	Inventory Comparison");
 		portalLogin();
 		CheckInventoryComparison.goToInventoryComparison(driver).click();
@@ -202,7 +202,7 @@ public class MainTests {
 	}
 	
 	@Test
-	public void Add_New_Group() throws InterruptedException {
+	public void addNewGroup() throws InterruptedException {
 		logger.info("----------- \t	Add New Group");
 		portalLogin();
 		CheckGroups.goToGroups(driver).click();
@@ -222,17 +222,17 @@ public class MainTests {
 	}
 	
 	@Test
-	public void Add_newAsset_Type() throws InterruptedException {
+	public void addNewAssetType() throws InterruptedException {
 		logger.info("----------- \t	Add New Asset Type");
 		portalLogin();
-		CheckAssets.Go_to_Assets(driver).click();
+		CheckAssets.goToAssets(driver).click();
 		ThreadSleep();
 		logger.info("	Adding new Asset Type");
-		CheckAssets.new_Asset_Type(driver).click();
+		CheckAssets.newAssetType(driver).click();
 		ThreadSleep();
-		CheckAssets.Add_Asset_Btn(driver).click();
-		CheckAssets.type_Input(driver).sendKeys("Internet Camera");
-		CheckAssets.type_InputBtn(driver).click();
+		CheckAssets.addAssetButton(driver).click();
+		CheckAssets.typeInput(driver).sendKeys("Internet Camera");
+		CheckAssets.typeInputButton(driver).click();
 		ThreadSleep();
 		portalLogout();
 		ThreadSleep();
@@ -240,25 +240,25 @@ public class MainTests {
 	
 	
 	@Test(enabled = true)
-	public void Add_new_PDF() throws InterruptedException {
+	public void addNewPDF() throws InterruptedException {
 		logger.info("----------- \t	Add New PDF");
 		portalLogin();
-		CheckAssets.Go_to_Assets(driver).click();
+		CheckAssets.goToAssets(driver).click();
 		ThreadSleep();
 		logger.info("	Adding new PDF Laptop");
-		CheckAssets.Add_New_PDF(driver).click();
+		CheckAssets.addNewPDF(driver).click();
 		ThreadSleep();
-		CheckAssets.Host_Name(driver).sendKeys("TestPDF");
-		CheckAssets.ThinkPad_Model(driver).sendKeys("Test ThinkPad");
-		CheckAssets.Model(driver).sendKeys("Test Model");
-		CheckAssets.Laptop_Property(driver).sendKeys("Black 1TB");
-		CheckAssets.Serial_Number(driver).sendKeys("1212312");
-		CheckAssets.Status_PDF(driver).sendKeys("New NEW");
-		CheckAssets.Date_Of_Purchase_PDF(driver).sendKeys("2019-09-09");
+		CheckAssets.hostName(driver).sendKeys("TestPDF");
+		CheckAssets.thinkPadModel(driver).sendKeys("Test ThinkPad");
+		CheckAssets.model(driver).sendKeys("Test Model");
+		CheckAssets.laptopProperty(driver).sendKeys("Black 1TB");
+		CheckAssets.serialNumber(driver).sendKeys("1212312");
+		CheckAssets.statusPDF(driver).sendKeys("New NEW");
+		CheckAssets.dateOfPurchase_PDF(driver).sendKeys("2019-09-09");
 		ThreadSleep();
 		//Check_assets.Save_Btn_PDF(driver).click();
 		Actions actions = new Actions(driver);
-		actions.moveToElement(CheckAssets.Save_Btn_PDF(driver)).click().build().perform();
+		actions.moveToElement(CheckAssets.saveButtonPDF(driver)).click().build().perform();
 		ThreadSleep();
 		CheckAssets.isAlertPresent(driver);
 		portalLogout();
@@ -269,29 +269,29 @@ public class MainTests {
 	}
 	
 	@Test
-	public void Add_new_asset() throws InterruptedException {
+	public void addNewAsset() throws InterruptedException {
 		logger.info("----------- \t	Add New Asset");
 		portalLogin();
-		CheckAssets.Go_to_Assets(driver).click();
+		CheckAssets.goToAssets(driver).click();
 		ThreadSleep();
 		logger.info("	Asset Filtering");
-		CheckAssets.Filter_By_Asset(driver).click();
+		CheckAssets.filterByAsset(driver).click();
 		ThreadSleep();
 		logger.info("	Adding Asset.....");
-		CheckAssets.Add_New_Asset(driver).click();
-		CheckAssets.Asset_Type(driver).sendKeys("Docking");
-		CheckAssets.Description(driver).sendKeys("123");
-		CheckAssets.PTech_tag(driver).sendKeys("9999");
-		CheckAssets.Status(driver).sendKeys("New");
-		CheckAssets.Invoice_Source(driver).sendKeys("KSP");
-		CheckAssets.Date_Of_Purchase(driver).sendKeys("2019-09-09");
-		CheckAssets.Invoice_Number(driver).sendKeys("213213");
-		CheckAssets.Warranty_PeriodY(driver).sendKeys("2");
-		CheckAssets.Warranty_PeriodM(driver).sendKeys("5");
-		CheckAssets.Expected_end_date(driver).sendKeys("2019-09-29");
-		CheckAssets.Serial_Number(driver).sendKeys("91111111");
+		CheckAssets.addNewAsset(driver).click();
+		CheckAssets.assetType(driver).sendKeys("Docking");
+		CheckAssets.description(driver).sendKeys("123");
+		CheckAssets.pTechTag(driver).sendKeys("9999");
+		CheckAssets.status(driver).sendKeys("New");
+		CheckAssets.invoiceSource(driver).sendKeys("KSP");
+		CheckAssets.dateOfPurchase(driver).sendKeys("2019-09-09");
+		CheckAssets.invoiceNumber(driver).sendKeys("213213");
+		CheckAssets.warrantyPeriodY(driver).sendKeys("2");
+		CheckAssets.warrantyPeriodM(driver).sendKeys("5");
+		CheckAssets.expectedEndDate(driver).sendKeys("2019-09-29");
+		CheckAssets.serialNumber(driver).sendKeys("91111111");
 		ThreadSleep();
-		CheckAssets.Save_Btn(driver).click();
+		CheckAssets.saveButton(driver).click();
 		ThreadSleep();
 		if(CheckAssets.isAlertPresent(driver)) {
 			
@@ -300,7 +300,7 @@ public class MainTests {
 		ThreadSleep();
 	}
 	@Test
-	public void reset_password() throws InterruptedException {
+	public void resetPassword() throws InterruptedException {
 		logger.info("----------- \t	Employee Rest Password");
 		portalLogin();
 		CheckEmployees.resetPassword(driver).get(0).click();
@@ -320,7 +320,7 @@ public class MainTests {
 	}
 	
 	@Test
-	public void employee_assets() throws InterruptedException {
+	public void EmployeeAssets() throws InterruptedException {
 		logger.info("----------- \t	Employee Assets");
 		portalLogin();
 		CheckEmployees.goToAllEmployees(driver).click();
@@ -351,7 +351,7 @@ public class MainTests {
 	}
 	
 	@Test
-	public void deactive_employee() throws InterruptedException {
+	public void deactiveEmployee() throws InterruptedException {
 		logger.info("----------- \t	Deactivate an Employee");
 		portalLogin();
 		CheckEmployees.goToAllEmployees(driver).click();
@@ -381,7 +381,7 @@ public class MainTests {
 	} 
 	
 	@Test(priority = 1)
-	public void add_employee() throws InterruptedException {
+	public void addEmployee() throws InterruptedException {
 		logger.info("----------- \t	Adding new Employee");
 		portalLogin();
 		//Check_employees.go_to_AllEmployees(driver).click();
@@ -459,7 +459,7 @@ public class MainTests {
 	
 
 	@Test(priority = 2)
-	public void search_employee() throws InterruptedException {
+	public void searchEmployee() throws InterruptedException {
 		logger.info("----------- \t Check Search an employee");
 		portalLogin();
 		ThreadSleep();
@@ -469,7 +469,7 @@ public class MainTests {
 		portalLogout();
 	}
 	@Test(priority = 3)
-	public void check_login_by_un() throws InterruptedException {
+	public void checkLoginByUsername() throws InterruptedException {
 		logger.info("----------- \t Check Login Using UserName");
 		CheckEmail.getEmailInput(driver).sendKeys("qa2");
 		CheckEmail.getPasswordInput(driver).sendKeys("qa2");
@@ -485,7 +485,7 @@ public class MainTests {
 		
 	}
 	@Test(priority = 3)
-	public void check_login_by_email() throws InterruptedException {
+	public void checkLoginByEmail() throws InterruptedException {
 		logger.info("----------- \t Check Login Using Email");
 		CheckEmail.getEmailInput(driver).sendKeys("arkan.1997@gmail.com");
 		CheckEmail.getPasswordInput(driver).sendKeys("qa1");
@@ -500,7 +500,7 @@ public class MainTests {
 	}
 	
 	@AfterTest
-	public void terminatetest() throws InterruptedException {
+	public void terminateTest() throws InterruptedException {
 
 		boolean hasQuit = driver.toString().contains("(null)");
 		if(!hasQuit) {

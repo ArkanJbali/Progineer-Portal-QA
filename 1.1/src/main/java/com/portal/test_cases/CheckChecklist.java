@@ -11,33 +11,33 @@ import org.openqa.selenium.WebElement;
 public class CheckChecklist {
 private static WebElement element = null;
 	
-	public static WebElement go_to_Checklist (WebDriver driver) {
+	public static WebElement goToChecklist (WebDriver driver) {
 		element = driver.findElement(By.xpath("/html[1]/body[1]/div[2]/div[1]/ul[1]/li[6]"));
 		return element;
 	}
 	
-	public static WebElement select_Group(WebDriver driver) {
+	public static WebElement selectGroup(WebDriver driver) {
 		element = driver.findElement(By.xpath("//tr[1]//td[5]//div[1]//select[1]//option[6]"));
 		return element;
 	}
 	
-	public static WebElement add_Group_Btn(WebDriver driver) {
+	public static WebElement addGroupButton(WebDriver driver) {
 		element = driver.findElement(By.xpath("//tr[1]//td[5]//div[1]//input[1]"));
 		return element;
 	}
 	
-	public static WebElement remove_Group(WebDriver driver) {
+	public static WebElement removeGroup(WebDriver driver) {
 		element = driver.findElement(By.xpath("//tr[1]//td[4]//div[1]//div[3]//input[1]"));
 		return element;
 	}
 	
-	public static int row_Count(WebDriver driver) {
+	public static int rowCount(WebDriver driver) {
 		int rows = driver.findElements(By.xpath("//*[@id=\"data_tp\"]/tbody/tr")).size();
 		System.out.println(rows);
 		return rows;
 	}
-	public static WebElement Remove_CheckList(WebDriver driver) {
-		 element = driver.findElement(By.xpath("//*[@id=\"data_tp\"]/tbody/tr["+ (row_Count(driver)) +"]/td[6]/div/a"));
+	public static WebElement removeCheckList(WebDriver driver) {
+		 element = driver.findElement(By.xpath("//*[@id=\"data_tp\"]/tbody/tr["+ (rowCount(driver)) +"]/td[6]/div/a"));
 		return element;
 	}
 	public static boolean isAlertPresent(WebDriver driver) 
@@ -52,7 +52,7 @@ private static WebElement element = null;
 	        return false; 
 	    }   // catch 
 	}
-	public static String Exist_alertMessage(WebDriver driver) {
+	public static String existAlertMessage(WebDriver driver) {
 		 Alert alert = (Alert) driver.switchTo().alert();  
 	        //Using accept() method to accept the alert box  
 		 	String alertTxt = alert.getText();

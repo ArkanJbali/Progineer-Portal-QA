@@ -10,77 +10,77 @@ public class CheckAssets {
 	
 	private static WebElement element = null;
 	
-	public static WebElement Go_to_Assets(WebDriver driver) {
+	public static WebElement goToAssets(WebDriver driver) {
 		element = driver.findElement(By.xpath("/html/body/div[2]/div[1]/ul/li[2]"));
 		return element;
 	}
 	
-	public static WebElement Filter_By_Asset(WebDriver driver) {
+	public static WebElement filterByAsset(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"felter\"]/option[12]")); 
 		return element;
 	}
 	
-	public static WebElement Add_New_Asset(WebDriver driver) {
+	public static WebElement addNewAsset(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"data_div\"]/div[1]/button[1]"));
 		return element;
 	}
 	
-	public static WebElement Asset_Type(WebDriver driver) {
+	public static WebElement assetType(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Asset\"]"));
 		return element;
 	}
 	
-	public static WebElement Description(WebDriver driver) {
+	public static WebElement description(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Description\"]"));
 		return element;
 	}
 	
-	public static WebElement PTech_tag(WebDriver driver) {
+	public static WebElement pTechTag(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"pTech_Tag_#\"]"));
 		return element;
 	}
 	
-	public static WebElement Status(WebDriver driver) {
+	public static WebElement status(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"status\"]"));
 		return element;
 	}
 	
-	public static WebElement Invoice_Source(WebDriver driver) {
+	public static WebElement invoiceSource(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Invoice_source\"]"));
 		return element;
 	}
 	
-	public static WebElement Date_Of_Purchase(WebDriver driver) {
+	public static WebElement dateOfPurchase(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Date_of_Purchase\"]"));
 		return element;
 	}
 	
-	public static WebElement Invoice_Number(WebDriver driver) {
+	public static WebElement invoiceNumber(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Invoice_number\"]"));
 		return element;
 	}
 	
-	public static WebElement Warranty_PeriodY(WebDriver driver) {
+	public static WebElement warrantyPeriodY(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Warranty_period/y\"]"));
 		return element;
 	}
 	
-	public static WebElement Warranty_PeriodM(WebDriver driver) {
+	public static WebElement warrantyPeriodM(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Warranty_period/m\"]"));
 		return element;
 	}
 	
-	public static WebElement Expected_end_date(WebDriver driver) {
+	public static WebElement expectedEndDate(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Expected_end_date_of_Warranty\"]"));
 		return element;
 	}
 	
-	public static WebElement Serial_Number(WebDriver driver) {
+	public static WebElement serialNumber(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Serial_number\"]"));
 		return element;
 	}
 	
-	public static WebElement Save_Btn(WebDriver driver) {
+	public static WebElement saveButton(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"add_ass\"]/button"));
 		return element;
 	}
@@ -101,68 +101,68 @@ public class CheckAssets {
 	} 
 	/******************************** Add New PDF **************************************/
 	
-	public static WebElement Add_New_PDF(WebDriver driver) {
+	public static WebElement addNewPDF(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"data_div\"]/div[1]/button[2]"));
 		return element;
 	}
 	
-	public static WebElement Host_Name(WebDriver driver) {
+	public static WebElement hostName(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Host_name\"]"));
 		return element;
 	}
 	
-	public static WebElement ThinkPad_Model(WebDriver driver) {
+	public static WebElement thinkPadModel(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"ThinkPad_Model\"]"));
 		return element;
 	}
 	
-	public static WebElement Model(WebDriver driver) {
+	public static WebElement model(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Model\"]"));
 		return element;
 	}
 	
-	public static WebElement Laptop_Property(WebDriver driver) {
+	public static WebElement laptopProperty(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Laptop_Property\"]"));
 		return element;
 	}
 	
-	public static WebElement Serial_NumberPDF(WebDriver driver) {
+	public static WebElement serialNumberPDF(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Serial_number\"]"));
 		return element;
 	}
 	
-	public static WebElement Status_PDF(WebDriver driver) {
+	public static WebElement statusPDF(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"status\"]"));
 		return element;
 	}
 	
-	public static WebElement Date_Of_Purchase_PDF(WebDriver driver) {
+	public static WebElement dateOfPurchase_PDF(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"Date_of_Purchase\"]"));
 		return element;
 	}
 	
-	public static WebElement Save_Btn_PDF(WebDriver driver) {
+	public static WebElement saveButtonPDF(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"add_pdfLaptop\"]/button"));
 		return element;
 	}
 	
 	/******************************** Add New Asset Type **************************************/
 	
-	public static WebElement new_Asset_Type(WebDriver driver) {
+	public static WebElement newAssetType(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"data_div\"]/div[1]/button[3]"));
 		return element;
 	}
 	
-	public static WebElement Add_Asset_Btn(WebDriver driver) {
+	public static WebElement addAssetButton(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"addCauses_of_Death\"]"));
 		return element;
 	}
 	
-	public static WebElement type_Input(WebDriver driver) {
+	public static WebElement typeInput(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"item_extra_data_name\"]"));
 		return element;
 	}
-	public static WebElement type_InputBtn(WebDriver driver) {
+	public static WebElement typeInputButton(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"item_extra_dataaddform\"]/td[3]/input"));
 		return element;
 	}

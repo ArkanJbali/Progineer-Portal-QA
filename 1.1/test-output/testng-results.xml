@@ -1,32 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="2" failed="4" total="16" passed="10">
+<testng-results skipped="1" failed="2" total="16" passed="13">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="363741" started-at="2019-09-11T11:54:07Z" finished-at="2019-09-11T12:00:10Z">
+  <suite name="Default suite" duration-ms="356360" started-at="2019-09-15T13:33:19Z" finished-at="2019-09-15T13:39:16Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="363741" started-at="2019-09-11T11:54:07Z" finished-at="2019-09-11T12:00:10Z">
+    <test name="Default test" duration-ms="356360" started-at="2019-09-15T13:33:19Z" finished-at="2019-09-15T13:39:16Z">
       <class name="Portal_Test.MainTests">
-        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Portal_Test.MainTests@29774679]" name="lunchApp" is-config="true" duration-ms="13043" started-at="2019-09-11T14:54:07Z" finished-at="2019-09-11T14:54:20Z">
+        <test-method status="PASS" signature="lunchApp()[pri:0, instance:Portal_Test.MainTests@29774679]" name="lunchApp" is-config="true" duration-ms="11445" started-at="2019-09-15T16:33:19Z" finished-at="2019-09-15T16:33:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lunchApp -->
-        <test-method status="PASS" signature="Add_New_Group()[pri:0, instance:Portal_Test.MainTests@29774679]" name="Add_New_Group" duration-ms="14609" started-at="2019-09-11T14:54:20Z" finished-at="2019-09-11T14:54:34Z">
+        <test-method status="PASS" signature="EmployeeAssets()[pri:0, instance:Portal_Test.MainTests@29774679]" name="EmployeeAssets" duration-ms="17156" started-at="2019-09-15T16:33:31Z" finished-at="2019-09-15T16:33:48Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Add_New_Group -->
-        <test-method status="PASS" signature="Add_newAsset_Type()[pri:0, instance:Portal_Test.MainTests@29774679]" name="Add_newAsset_Type" duration-ms="14299" started-at="2019-09-11T14:54:34Z" finished-at="2019-09-11T14:54:49Z">
+        </test-method> <!-- EmployeeAssets -->
+        <test-method status="PASS" signature="addNewAsset()[pri:0, instance:Portal_Test.MainTests@29774679]" name="addNewAsset" duration-ms="19012" started-at="2019-09-15T16:33:48Z" finished-at="2019-09-15T16:34:07Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Add_newAsset_Type -->
-        <test-method status="SKIP" signature="Add_new_PDF()[pri:0, instance:Portal_Test.MainTests@29774679]" name="Add_new_PDF" duration-ms="18136" started-at="2019-09-11T14:54:49Z" finished-at="2019-09-11T14:55:07Z">
+        </test-method> <!-- addNewAsset -->
+        <test-method status="PASS" signature="addNewAssetType()[pri:0, instance:Portal_Test.MainTests@29774679]" name="addNewAssetType" duration-ms="14087" started-at="2019-09-15T16:34:07Z" finished-at="2019-09-15T16:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewAssetType -->
+        <test-method status="PASS" signature="addNewGroup()[pri:0, instance:Portal_Test.MainTests@29774679]" name="addNewGroup" duration-ms="14057" started-at="2019-09-15T16:34:21Z" finished-at="2019-09-15T16:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewGroup -->
+        <test-method status="SKIP" signature="addNewPDF()[pri:0, instance:Portal_Test.MainTests@29774679]" name="addNewPDF" duration-ms="18433" started-at="2019-09-15T16:34:35Z" finished-at="2019-09-15T16:34:54Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[Skipping Add new PDF error in server]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.SkipException: Skipping Add new PDF error in server
-	at Portal_Test.MainTests.Add_new_PDF(MainTests.java:264)
+	at Portal_Test.MainTests.addNewPDF(MainTests.java:268)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -56,42 +64,36 @@
           </exception> <!-- org.testng.SkipException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Add_new_PDF -->
-        <test-method status="PASS" signature="Add_new_asset()[pri:0, instance:Portal_Test.MainTests@29774679]" name="Add_new_asset" duration-ms="31165" started-at="2019-09-11T14:55:07Z" finished-at="2019-09-11T14:55:38Z">
+        </test-method> <!-- addNewPDF -->
+        <test-method status="PASS" signature="checkUsers()[pri:0, instance:Portal_Test.MainTests@29774679]" name="checkUsers" duration-ms="144322" started-at="2019-09-15T16:34:54Z" finished-at="2019-09-15T16:37:18Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Add_new_asset -->
-        <test-method status="PASS" signature="Check_Users()[pri:0, instance:Portal_Test.MainTests@29774679]" name="Check_Users" duration-ms="146520" started-at="2019-09-11T14:55:38Z" finished-at="2019-09-11T14:58:05Z">
+        </test-method> <!-- checkUsers -->
+        <test-method status="PASS" signature="checklist()[pri:0, instance:Portal_Test.MainTests@29774679]" name="checklist" duration-ms="22198" started-at="2019-09-15T16:37:18Z" finished-at="2019-09-15T16:37:40Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Check_Users -->
-        <test-method status="PASS" signature="Checklist()[pri:0, instance:Portal_Test.MainTests@29774679]" name="Checklist" duration-ms="18783" started-at="2019-09-11T14:58:05Z" finished-at="2019-09-11T14:58:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Checklist -->
-        <test-method status="PASS" signature="Inventory_Comparison()[pri:0, instance:Portal_Test.MainTests@29774679]" name="Inventory_Comparison" duration-ms="10125" started-at="2019-09-11T14:58:23Z" finished-at="2019-09-11T14:58:33Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Inventory_Comparison -->
-        <test-method status="FAIL" signature="Inventory_Stocking()[pri:0, instance:Portal_Test.MainTests@29774679]" name="Inventory_Stocking" duration-ms="6617" started-at="2019-09-11T14:58:33Z" finished-at="2019-09-11T14:58:40Z">
-          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+        </test-method> <!-- checklist -->
+        <test-method status="FAIL" signature="deactiveEmployee()[pri:0, instance:Portal_Test.MainTests@29774679]" name="deactiveEmployee" duration-ms="786" started-at="2019-09-15T16:37:40Z" finished-at="2019-09-15T16:37:41Z">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
             <message>
-              <![CDATA[element click intercepted: Element <button type="button" onclick="activateStock(1,this)" style="background-color: #23af7e;">...</button> is not clickable at point (1224, 362). Other element would receive the click: <td class="alt0" align="center">...</td>
+              <![CDATA[stale element reference: element is not attached to the page document
   (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
 System info: host: 'DESKTOP-65VD1U3', ip: '169.254.163.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64967}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55255}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5dadc0136ac301a1d37c70b997e9deab]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" onclick="activateStock(1,this)" style="background-color: #23af7e;">...</button> is not clickable at point (1224, 362). Other element would receive the click: <td class="alt0" align="center">...</td>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
   (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
 System info: host: 'DESKTOP-65VD1U3', ip: '169.254.163.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64967}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55255}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5dadc0136ac301a1d37c70b997e9deab
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
@@ -102,10 +104,9 @@ Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa
 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
-	at com.portal.test_cases.Check_InventoryStocking.Check_Who_Active(Check_InventoryStocking.java:35)
-	at Portal_Test.MainTests.Inventory_Stocking(MainTests.java:100)
+	at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:618)
+	at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:639)
+	at Portal_Test.MainTests.deactiveEmployee(MainTests.java:361)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -132,193 +133,27 @@ Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Inventory_Stocking -->
-        <test-method status="FAIL" signature="Test_Email()[pri:0, instance:Portal_Test.MainTests@29774679]" name="Test_Email" duration-ms="10070" started-at="2019-09-11T14:58:40Z" finished-at="2019-09-11T14:58:50Z">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='username']"}
-  (Session info: chrome=76.0.3809.132)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'DESKTOP-65VD1U3', ip: '169.254.163.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64967}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa
-*** Element info: {Using=xpath, value=//input[@name='username']}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='username']"}
-  (Session info: chrome=76.0.3809.132)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'DESKTOP-65VD1U3', ip: '169.254.163.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64967}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa
-*** Element info: {Using=xpath, value=//input[@name='username']}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at com.portal.test_cases.check_email.get_email_input(check_email.java:15)
-	at Portal_Test.MainTests.portal_login(MainTests.java:40)
-	at Portal_Test.MainTests.Test_Email(MainTests.java:162)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:715)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:907)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1237)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:51)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:85)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1197)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1122)
-	at org.testng.TestNG.run(TestNG.java:1030)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+        </test-method> <!-- deactiveEmployee -->
+        <test-method status="PASS" signature="inventoryComparison()[pri:0, instance:Portal_Test.MainTests@29774679]" name="inventoryComparison" duration-ms="12956" started-at="2019-09-15T16:37:41Z" finished-at="2019-09-15T16:37:54Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Test_Email -->
-        <test-method status="SKIP" signature="deactive_employee()[pri:0, instance:Portal_Test.MainTests@29774679]" name="deactive_employee" duration-ms="18962" started-at="2019-09-11T14:58:50Z" finished-at="2019-09-11T14:59:09Z">
-          <exception class="org.testng.SkipException">
-            <message>
-              <![CDATA[Unhandled Alert]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.testng.SkipException: Unhandled Alert
-	at Portal_Test.MainTests.deactive_employee(MainTests.java:375)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:715)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:907)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1237)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:51)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:85)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1197)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1122)
-	at org.testng.TestNG.run(TestNG.java:1030)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.testng.SkipException -->
+        </test-method> <!-- inventoryComparison -->
+        <test-method status="PASS" signature="inventoryStocking()[pri:0, instance:Portal_Test.MainTests@29774679]" name="inventoryStocking" duration-ms="17043" started-at="2019-09-15T16:37:54Z" finished-at="2019-09-15T16:38:11Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- deactive_employee -->
-        <test-method status="FAIL" signature="employee_assets()[pri:0, instance:Portal_Test.MainTests@29774679]" name="employee_assets" duration-ms="10047" started-at="2019-09-11T14:59:09Z" finished-at="2019-09-11T14:59:19Z">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='username']"}
-  (Session info: chrome=76.0.3809.132)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'DESKTOP-65VD1U3', ip: '169.254.163.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64967}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa
-*** Element info: {Using=xpath, value=//input[@name='username']}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='username']"}
-  (Session info: chrome=76.0.3809.132)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'DESKTOP-65VD1U3', ip: '169.254.163.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64967}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa
-*** Element info: {Using=xpath, value=//input[@name='username']}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at com.portal.test_cases.check_email.get_email_input(check_email.java:15)
-	at Portal_Test.MainTests.portal_login(MainTests.java:40)
-	at Portal_Test.MainTests.employee_assets(MainTests.java:321)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:715)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:907)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1237)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:51)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:85)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1197)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1122)
-	at org.testng.TestNG.run(TestNG.java:1030)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+        </test-method> <!-- inventoryStocking -->
+        <test-method status="PASS" signature="resetPassword()[pri:0, instance:Portal_Test.MainTests@29774679]" name="resetPassword" duration-ms="12826" started-at="2019-09-15T16:38:11Z" finished-at="2019-09-15T16:38:24Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- employee_assets -->
-        <test-method status="PASS" signature="reset_password()[pri:0, instance:Portal_Test.MainTests@29774679]" name="reset_password" duration-ms="16434" started-at="2019-09-11T14:59:19Z" finished-at="2019-09-11T14:59:36Z">
+        </test-method> <!-- resetPassword -->
+        <test-method status="PASS" signature="testEmail()[pri:0, instance:Portal_Test.MainTests@29774679]" name="testEmail" duration-ms="23598" started-at="2019-09-15T16:38:24Z" finished-at="2019-09-15T16:38:47Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- reset_password -->
-        <test-method status="FAIL" signature="add_employee()[pri:0, instance:Portal_Test.MainTests@29774679]" name="add_employee" duration-ms="8543" started-at="2019-09-11T14:59:36Z" finished-at="2019-09-11T14:59:44Z">
+        </test-method> <!-- testEmail -->
+        <test-method status="FAIL" signature="addEmployee()[pri:0, instance:Portal_Test.MainTests@29774679]" name="addEmployee" duration-ms="7361" started-at="2019-09-15T16:38:47Z" finished-at="2019-09-15T16:38:55Z">
           <exception class="org.openqa.selenium.NoAlertPresentException">
             <message>
               <![CDATA[no such alert
@@ -326,8 +161,8 @@ Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
 System info: host: 'DESKTOP-65VD1U3', ip: '169.254.163.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64967}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55255}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5dadc0136ac301a1d37c70b997e9deab]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoAlertPresentException: no such alert
@@ -335,8 +170,8 @@ Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa]]>
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
 System info: host: 'DESKTOP-65VD1U3', ip: '169.254.163.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64967}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\arkan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55255}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5dadc0136ac301a1d37c70b997e9deab
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
@@ -349,8 +184,8 @@ Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
 	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:932)
-	at com.portal.test_cases.Check_employees.alertMessage(Check_employees.java:169)
-	at Portal_Test.MainTests.add_employee(MainTests.java:408)
+	at com.portal.test_cases.CheckEmployees.alertMessage(CheckEmployees.java:169)
+	at Portal_Test.MainTests.addEmployee(MainTests.java:412)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -380,23 +215,23 @@ Session ID: 490aa3bb3dc80a36e34cd578f1c6bcaa
           </exception> <!-- org.openqa.selenium.NoAlertPresentException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- add_employee -->
-        <test-method status="PASS" signature="search_employee()[pri:0, instance:Portal_Test.MainTests@29774679]" name="search_employee" duration-ms="14840" started-at="2019-09-11T14:59:44Z" finished-at="2019-09-11T14:59:59Z">
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="searchEmployee()[pri:0, instance:Portal_Test.MainTests@29774679]" name="searchEmployee" duration-ms="10624" started-at="2019-09-15T16:38:55Z" finished-at="2019-09-15T16:39:05Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- search_employee -->
-        <test-method status="PASS" signature="check_login_by_email()[pri:0, instance:Portal_Test.MainTests@29774679]" name="check_login_by_email" duration-ms="3722" started-at="2019-09-11T14:59:59Z" finished-at="2019-09-11T15:00:03Z">
+        </test-method> <!-- searchEmployee -->
+        <test-method status="PASS" signature="checkLoginByEmail()[pri:0, instance:Portal_Test.MainTests@29774679]" name="checkLoginByEmail" duration-ms="3513" started-at="2019-09-15T16:39:05Z" finished-at="2019-09-15T16:39:09Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- check_login_by_email -->
-        <test-method status="PASS" signature="check_login_by_un()[pri:0, instance:Portal_Test.MainTests@29774679]" name="check_login_by_un" duration-ms="7345" started-at="2019-09-11T15:00:03Z" finished-at="2019-09-11T15:00:10Z">
+        </test-method> <!-- checkLoginByEmail -->
+        <test-method status="PASS" signature="checkLoginByUsername()[pri:0, instance:Portal_Test.MainTests@29774679]" name="checkLoginByUsername" duration-ms="6767" started-at="2019-09-15T16:39:09Z" finished-at="2019-09-15T16:39:16Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- check_login_by_un -->
-        <test-method status="PASS" signature="terminatetest()[pri:0, instance:Portal_Test.MainTests@29774679]" name="terminatetest" is-config="true" duration-ms="418" started-at="2019-09-11T15:00:10Z" finished-at="2019-09-11T15:00:10Z">
+        </test-method> <!-- checkLoginByUsername -->
+        <test-method status="PASS" signature="terminateTest()[pri:0, instance:Portal_Test.MainTests@29774679]" name="terminateTest" is-config="true" duration-ms="118" started-at="2019-09-15T16:39:16Z" finished-at="2019-09-15T16:39:16Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- terminatetest -->
+        </test-method> <!-- terminateTest -->
       </class> <!-- Portal_Test.MainTests -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
