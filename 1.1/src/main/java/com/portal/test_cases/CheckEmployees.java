@@ -7,6 +7,7 @@ import java.util.List;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -14,13 +15,37 @@ import org.openqa.selenium.WebElement;
 
 public class CheckEmployees {
 private static WebElement element = null;
-	
+private static int oneSecond = 1000;
 	public static WebElement goToAllEmployees(WebDriver driver) {
 		element = driver.findElement(By.xpath("/html/body/div[2]/div[1]/ul/li[1]"));
 		return element;
 	}
+	public static WebElement showEntries(WebDriver driver, int entrie) {
+		element = driver.findElement(By.xpath("//*[@id=\"data_tp_2_length\"]/label/select/option["+ entrie +"]"));
+		return element;  
+	}
+	public static void scrollPageDown(WebDriver driver) {
+		JavascriptExecutor js = (JavascriptExecutor)driver; 
+		element = driver.findElement(By.xpath("//*[@id=\"data_tp_2_info\"]"));
+		js.executeScript("arguments[0].scrollIntoView();", element);
+	}
+	public static void scrollPageUp(WebDriver driver) {
+		JavascriptExecutor js = (JavascriptExecutor)driver; 
+		element = driver.findElement(By.xpath("//*[@id=\"data_tp_2_length\"]"));
+		js.executeScript("arguments[0].scrollIntoView();", element);
+	}
 	public static WebElement searchEmployee(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"data_tp_2_filter\"]/label/input")); 
+		return element;
+	}
+	
+	public static WebElement printReport(WebDriver driver) {
+		element = driver.findElement(By.xpath("//*[@id=\"add\"]"));
+		return element;
+	}
+	
+	public static WebElement closePrintDialog(WebDriver driver) throws InterruptedException {
+		element = driver.findElement(By.className("cancel-button"));
 		return element;
 	}
 	
@@ -85,33 +110,33 @@ private static WebElement element = null;
 	}
 	public static WebElement checkListForLeaving(WebDriver driver) throws InterruptedException {
 		driver.findElement(By.xpath("//*[@id=\"btn_17\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_16\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_18\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_19\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_20\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_21\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_22\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_23\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_24\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_25\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_26\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_27\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_28\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		driver.findElement(By.xpath("//*[@id=\"btn_29\"]")).click();
-		Thread.sleep(1000); 
+		Thread.sleep(oneSecond); 
 		return element;
 	}
 	public static List<WebElement> employeeAssetsButton(WebDriver driver) {

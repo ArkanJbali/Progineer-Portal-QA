@@ -11,7 +11,10 @@ private static WebElement element = null;
 		element = driver.findElement(By.xpath("/html/body/div[2]/div[1]/ul/li[5]"));
 		return element;
 	}
-	
+	public static WebElement printReport(WebDriver driver) {
+		element = driver.findElement(By.xpath("//*[@id=\"add\"]"));
+		return element;
+	}
 	public static WebElement addNewGroupButton(WebDriver driver) {
 		element = driver.findElement(By.xpath("//*[@id=\"addingGroup\"]"));
 		return element;

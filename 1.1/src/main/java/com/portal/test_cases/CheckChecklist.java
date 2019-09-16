@@ -15,7 +15,10 @@ private static WebElement element = null;
 		element = driver.findElement(By.xpath("/html[1]/body[1]/div[2]/div[1]/ul[1]/li[6]"));
 		return element;
 	}
-	
+	public static WebElement printReport(WebDriver driver) {
+		element = driver.findElement(By.xpath("//*[@id=\"add\"]"));
+		return element;
+	}
 	public static WebElement selectGroup(WebDriver driver) {
 		element = driver.findElement(By.xpath("//tr[1]//td[5]//div[1]//select[1]//option[6]"));
 		return element;
@@ -31,13 +34,13 @@ private static WebElement element = null;
 		return element;
 	}
 	
-	public static int rowCount(WebDriver driver) {
+	public static int rowsCount(WebDriver driver) {
 		int rows = driver.findElements(By.xpath("//*[@id=\"data_tp\"]/tbody/tr")).size();
 		System.out.println(rows);
 		return rows;
 	}
 	public static WebElement removeCheckList(WebDriver driver) {
-		 element = driver.findElement(By.xpath("//*[@id=\"data_tp\"]/tbody/tr["+ (rowCount(driver)) +"]/td[6]/div/a"));
+		 element = driver.findElement(By.xpath("//*[@id=\"data_tp\"]/tbody/tr["+ (rowsCount(driver)) +"]/td[6]/div/a"));
 		return element;
 	}
 	public static boolean isAlertPresent(WebDriver driver) 

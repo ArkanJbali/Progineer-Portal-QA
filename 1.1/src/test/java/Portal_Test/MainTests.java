@@ -187,19 +187,7 @@ public class MainTests {
 		ThreadSleep();
 	}
 	
-	@Test
-	public void inventoryComparison() throws InterruptedException {
-		logger.info("----------- \t	Inventory Comparison");
-		portalLogin();
-		CheckInventoryComparison.goToInventoryComparison(driver).click();
-		ThreadSleep();
-		logger.info("Search for inventory");
-		CheckInventoryComparison.searchForInventory(driver).sendKeys("arkan");
-		ThreadSleep();
-		logger.info("Printing report");
-		portalLogout();
-		ThreadSleep();
-	}
+	
 	
 	@Test
 	public void addNewGroup() throws InterruptedException {
@@ -336,6 +324,7 @@ public class MainTests {
 				System.out.println(CheckEmployees.selectHeadset(driver).getText());
 				CheckEmployees.addHeadsetButton(driver).click();
 			}else {
+				ThreadSleep();
 				System.out.println("Its null there are no items");
 				Actions action = new Actions(driver);
 				action.sendKeys(Keys.ESCAPE).perform();
@@ -379,13 +368,183 @@ public class MainTests {
 		throw new SkipException("Unhandled Alert");
 		}
 	} 
+	@Test 
+	public void showAssetsEntrie() throws InterruptedException {
+		logger.info("----------- \t	Showing Assets");
+		portalLogin();
+		CheckAssets.goToAssets(driver).click();
+		CheckAssets.scrollPageDown(driver);
+		ThreadSleep();
+		CheckAssets.scrollPageUp(driver);
+		logger.info("--	Showing 100 Employees");
+		CheckAssets.showEntries(driver, 4).click();
+		CheckAssets.scrollPageDown(driver);
+		ThreadSleep();
+		CheckAssets.scrollPageUp(driver);
+		logger.info("--	Showing 50 Employees");
+		CheckAssets.showEntries(driver, 3).click();
+		CheckAssets.scrollPageDown(driver);
+		ThreadSleep();
+		CheckAssets.scrollPageUp(driver);
+		logger.info("--	Showing 25 Employees");
+		CheckAssets.showEntries(driver, 2).click();
+		CheckAssets.scrollPageDown(driver);
+		ThreadSleep();
+		CheckAssets.scrollPageUp(driver);
+		logger.info("--	Showing 10 Employees");
+		CheckAssets.showEntries(driver, 1).click();
+		CheckAssets.scrollPageDown(driver);
+		ThreadSleep();
+		CheckAssets.scrollPageUp(driver);
+		portalLogout();
+	}
+	@Test
+	public void searchInventoryComparison() throws InterruptedException {
+		logger.info("----------- \t	Search for Employee Inventory Comparison");
+		portalLogin();
+		CheckInventoryComparison.goToInventoryComparison(driver).click();
+		ThreadSleep();
+		logger.info("Search for inventory");
+		CheckInventoryComparison.searchForInventory(driver).sendKeys("arkan");
+		ThreadSleep();
+		portalLogout();
+	}
+	@Test 
+	public void showComparisonEntrie() throws InterruptedException {
+		logger.info("----------- \t	Showing Comparisons");
+		portalLogin();
+		CheckInventoryComparison.goToInventoryComparison(driver).click();
+		CheckInventoryComparison.scrollPageDown(driver);
+		ThreadSleep();
+		CheckInventoryComparison.scrollPageUp(driver);
+		logger.info("--	Showing 100 Employees");
+		CheckInventoryComparison.showEntries(driver, 4).click();
+		CheckInventoryComparison.scrollPageDown(driver);
+		ThreadSleep();
+		CheckInventoryComparison.scrollPageUp(driver);
+		ThreadSleep();
+		logger.info("--	Showing 50 Employees");
+		CheckInventoryComparison.showEntries(driver, 3).click();
+		CheckInventoryComparison.scrollPageDown(driver);
+		ThreadSleep();
+		CheckInventoryComparison.scrollPageUp(driver);
+		ThreadSleep();
+		logger.info("--	Showing 25 Employees");
+		CheckInventoryComparison.showEntries(driver, 2).click();
+		CheckInventoryComparison.scrollPageDown(driver);
+		ThreadSleep();
+		CheckInventoryComparison.scrollPageUp(driver);
+		logger.info("--	Showing 10 Employees");
+		CheckInventoryComparison.showEntries(driver, 1).click();
+		CheckInventoryComparison.scrollPageDown(driver);
+		ThreadSleep();
+		CheckInventoryComparison.scrollPageUp(driver);
+		ThreadSleep();
+		portalLogout();
+	}
+	@Test(enabled = false)
+	public void printhInventoryComparisonReport() throws InterruptedException {
+		logger.info("----------- \t	Print Inventory Comparison Report");
+		portalLogin();
+		CheckInventoryComparison.goToInventoryComparison(driver).click();
+		ThreadSleep();
+		CheckInventoryComparison.printReport(driver).click();
+		ThreadSleep();
+		logger.info("-- Report Printed");
+		//portalLogout();
+	}
+	@Test(enabled = false)
+	public void printInventoryAndStockingReport() throws InterruptedException {
+		logger.info("----------- \t	print Inventory & Stocking Report");
+		portalLogin();
+		CheckInventoryStocking.goToInventoryStocking(driver).click();
+		ThreadSleep();
+		CheckInventoryStocking.printReport(driver).click();
+		logger.info("-- Report Printed");
+		//portalLogout();
+	}
+	@Test(enabled = false)
+	public void printGroupsReport() throws InterruptedException {
+		logger.info("----------- \t	print Groups Report");
+		portalLogin();
+		CheckGroups.goToGroups(driver).click();
+		ThreadSleep();
+		CheckGroups.printReport(driver).click();
+		logger.info("-- Report Printed");
+		//portalLogout();
+	}
+	@Test(enabled = false)
+	public void printChecklistReport() throws InterruptedException {
+		logger.info("----------- \t	print Checklist Report");
+		portalLogin();
+		CheckChecklist.goToChecklist(driver).click();
+		ThreadSleep();
+		CheckChecklist.printReport(driver).click();
+		logger.info("-- Report Printed");
+		//portalLogout();
+	}
+	
+	@Test
+	public void searchAsset() throws InterruptedException {
+		logger.info("----------- \t	Search for an Asset");
+		portalLogin();
+		CheckAssets.goToAssets(driver).click();
+		ThreadSleep();
+		CheckAssets.searchAsset(driver).sendKeys("Mouse");
+		CheckAssets.searchAsset(driver).sendKeys(Keys.RETURN);
+		ThreadSleep();
+		portalLogout();
+	}
+	
+	@Test 
+	public void showEmployeeEntrie() throws InterruptedException {
+		logger.info("----------- \t	Showing Employees");
+		portalLogin();
+		CheckEmployees.goToAllEmployees(driver).click();
+		CheckEmployees.scrollPageDown(driver);
+		ThreadSleep();
+		CheckEmployees.scrollPageUp(driver);
+		logger.info("--	Showing 100 Employees");
+		CheckEmployees.showEntries(driver, 4).click();
+		CheckEmployees.scrollPageDown(driver);
+		ThreadSleep();
+		CheckEmployees.scrollPageUp(driver);
+		logger.info("--	Showing 50 Employees");
+		CheckEmployees.showEntries(driver, 3).click();
+		CheckEmployees.scrollPageDown(driver);
+		ThreadSleep();
+		CheckEmployees.scrollPageUp(driver);
+		logger.info("--	Showing 25 Employees");
+		CheckEmployees.showEntries(driver, 2).click();
+		CheckEmployees.scrollPageDown(driver);
+		ThreadSleep();
+		CheckEmployees.scrollPageUp(driver);
+		logger.info("--	Showing 10 Employees");
+		CheckEmployees.showEntries(driver, 1).click();
+		CheckEmployees.scrollPageDown(driver);
+		ThreadSleep();
+		CheckEmployees.scrollPageUp(driver);
+		portalLogout();
+	}
+	
+	@Test(enabled = false)
+	public void printAllEmployees() throws InterruptedException {
+		logger.info("----------- \t	Printing All Employees");
+		portalLogin();
+		CheckEmployees.goToAllEmployees(driver).click();
+		CheckEmployees.printReport(driver).click();
+		ThreadSleep();
+		
+		//CheckEmployees.closePrintDialog(driver).click();
+		//ThreadSleep();
+		logger.info("-- Report Printed");
+		//portalLogout();
+	}
 	
 	@Test(priority = 1)
 	public void addEmployee() throws InterruptedException {
 		logger.info("----------- \t	Adding new Employee");
 		portalLogin();
-		//Check_employees.go_to_AllEmployees(driver).click();
-		//make login first -----missing
 		//Add button to add new employee
 		CheckEmployees.addButton(driver).click();
 		//Add name

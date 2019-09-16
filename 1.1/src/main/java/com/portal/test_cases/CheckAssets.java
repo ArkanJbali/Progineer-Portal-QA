@@ -2,6 +2,7 @@ package com.portal.test_cases;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -12,6 +13,24 @@ public class CheckAssets {
 	
 	public static WebElement goToAssets(WebDriver driver) {
 		element = driver.findElement(By.xpath("/html/body/div[2]/div[1]/ul/li[2]"));
+		return element;
+	}
+	public static WebElement showEntries(WebDriver driver, int entrie) {
+		element = driver.findElement(By.xpath("//*[@id=\"data_tp_length\"]/label/select/option["+ entrie +"]"));
+		return element;  
+	}
+	public static void scrollPageDown(WebDriver driver) {
+		JavascriptExecutor js = (JavascriptExecutor)driver; 
+		element = driver.findElement(By.xpath("//*[@id=\"data_tp_info\"]"));
+		js.executeScript("arguments[0].scrollIntoView();", element);
+	}
+	public static void scrollPageUp(WebDriver driver) {
+		JavascriptExecutor js = (JavascriptExecutor)driver; 
+		element = driver.findElement(By.xpath("//*[@id=\"data_tp_length\"]"));
+		js.executeScript("arguments[0].scrollIntoView();", element);
+	}
+	public static WebElement searchAsset(WebDriver driver) {
+		element = driver.findElement(By.xpath("//*[@id=\"data_tp_filter\"]/label/input")); 
 		return element;
 	}
 	

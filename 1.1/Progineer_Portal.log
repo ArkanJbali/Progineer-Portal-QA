@@ -1134,3 +1134,318 @@
 2019-09-15 16:39:16  [Portal_Test.MainTests] (main:) TEST PASSED
 2019-09-15 16:39:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
+2019-09-16 11:08:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:08:45  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:08:45  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:08:58  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:09:25  [Portal_Test.MainTests] (main:) -- Report Printed
+2019-09-16 11:09:30  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:10:57  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:10:57  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:10:57  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:11:09  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:11:32  [Portal_Test.MainTests] (main:) -- Report Printed
+2019-09-16 11:11:32  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:11:32  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:11:37  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:11:37  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:11:37  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:11:48  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:13:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:13:03  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:13:03  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:13:07  [Portal_Test.MainTests] (main:) -- Report Printed
+2019-09-16 11:13:07  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:13:15  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:13:30  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:13:35  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:13:35  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:13:35  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:13:46  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:14:11  [Portal_Test.MainTests] (main:) -- Report Printed
+2019-09-16 11:14:11  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:14:11  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:15:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:15:20  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:15:20  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:15:32  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:16:12  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:16:12  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:16:17  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:16:17  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:16:17  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:16:28  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:17:48  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:17:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:20:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:20:10  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:20:10  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:21:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:21:18  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:21:18  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:21:30  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:21:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:21:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:21:45  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:21:45  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:22:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:22:07  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:22:07  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:22:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:22:44  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:22:44  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:22:56  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:22:56  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:23:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:23:14  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:23:14  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:23:44  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:23:44  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:23:44  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:23:56  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:24:14  [Portal_Test.MainTests] (main:) -- Report Printed
+2019-09-16 11:24:14  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:24:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:24:48  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:24:48  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:24:48  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:26:17  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:26:17  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:26:17  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:30:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:30:18  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:30:18  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:30:38  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:31:41  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:31:41  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:32:55  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:32:55  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:32:55  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:33:07  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:33:33  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:33:33  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:33:33  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:33:37  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:33:45  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:34:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:34:23  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:34:23  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:34:33  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:34:35  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:40:19  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:40:19  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:40:19  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:40:31  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:42:02  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:42:02  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:42:02  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:42:14  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:43:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:43:14  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:43:14  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:43:26  [Portal_Test.MainTests] (main:) ----------- 		Printing All Employees
+2019-09-16 11:43:27  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:43:49  [Portal_Test.MainTests] (main:) -- Report Printed
+2019-09-16 11:43:49  [Portal_Test.MainTests] (main:) TEST FAILED. NEEDS INVESTIGATION
+2019-09-16 11:50:17  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:50:17  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:50:17  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:50:28  [Portal_Test.MainTests] (main:) ----------- 		Showing Employees
+2019-09-16 11:50:29  [Portal_Test.MainTests] (main:) --	Showing 100 Employees
+2019-09-16 11:50:32  [Portal_Test.MainTests] (main:) --	Showing 50 Employees
+2019-09-16 11:50:35  [Portal_Test.MainTests] (main:) --	Showing 25 Employees
+2019-09-16 11:50:38  [Portal_Test.MainTests] (main:) --	Showing 10 Employees
+2019-09-16 11:50:41  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:50:41  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:51:20  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:51:20  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:51:20  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:51:31  [Portal_Test.MainTests] (main:) ----------- 		Showing Employees
+2019-09-16 11:51:32  [Portal_Test.MainTests] (main:) --	Showing 100 Employees
+2019-09-16 11:51:36  [Portal_Test.MainTests] (main:) --	Showing 50 Employees
+2019-09-16 11:51:39  [Portal_Test.MainTests] (main:) --	Showing 25 Employees
+2019-09-16 11:51:42  [Portal_Test.MainTests] (main:) --	Showing 10 Employees
+2019-09-16 11:51:45  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:51:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:52:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:52:16  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:52:16  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:52:31  [Portal_Test.MainTests] (main:) ----------- 		Showing Employees
+2019-09-16 11:52:35  [Portal_Test.MainTests] (main:) --	Showing 100 Employees
+2019-09-16 11:52:38  [Portal_Test.MainTests] (main:) --	Showing 50 Employees
+2019-09-16 11:52:41  [Portal_Test.MainTests] (main:) --	Showing 25 Employees
+2019-09-16 11:52:44  [Portal_Test.MainTests] (main:) --	Showing 10 Employees
+2019-09-16 11:52:47  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:52:47  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:52:56  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:52:56  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:52:56  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:53:11  [Portal_Test.MainTests] (main:) ----------- 		Showing Employees
+2019-09-16 11:53:15  [Portal_Test.MainTests] (main:) --	Showing 100 Employees
+2019-09-16 11:53:18  [Portal_Test.MainTests] (main:) --	Showing 50 Employees
+2019-09-16 11:53:21  [Portal_Test.MainTests] (main:) --	Showing 25 Employees
+2019-09-16 11:53:25  [Portal_Test.MainTests] (main:) --	Showing 10 Employees
+2019-09-16 11:53:28  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:53:28  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:55:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:55:23  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:55:23  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:55:43  [Portal_Test.MainTests] (main:) ----------- 		Showing Employees
+2019-09-16 11:55:47  [Portal_Test.MainTests] (main:) --	Showing 100 Employees
+2019-09-16 11:55:50  [Portal_Test.MainTests] (main:) --	Showing 50 Employees
+2019-09-16 11:55:54  [Portal_Test.MainTests] (main:) --	Showing 25 Employees
+2019-09-16 11:55:57  [Portal_Test.MainTests] (main:) --	Showing 10 Employees
+2019-09-16 11:56:00  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:56:00  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 11:58:22  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:58:22  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:58:22  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:59:05  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 11:59:05  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 11:59:05  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 11:59:17  [Portal_Test.MainTests] (main:) ----------- 		Showing Employees
+2019-09-16 11:59:21  [Portal_Test.MainTests] (main:) --	Showing 100 Employees
+2019-09-16 11:59:24  [Portal_Test.MainTests] (main:) --	Showing 50 Employees
+2019-09-16 11:59:27  [Portal_Test.MainTests] (main:) --	Showing 25 Employees
+2019-09-16 11:59:30  [Portal_Test.MainTests] (main:) --	Showing 10 Employees
+2019-09-16 11:59:34  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 11:59:34  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 12:01:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 12:01:25  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 12:01:25  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 12:01:38  [Portal_Test.MainTests] (main:) ----------- 		Showing Employees
+2019-09-16 12:01:42  [Portal_Test.MainTests] (main:) --	Showing 100 Employees
+2019-09-16 12:01:45  [Portal_Test.MainTests] (main:) --	Showing 50 Employees
+2019-09-16 12:01:48  [Portal_Test.MainTests] (main:) --	Showing 25 Employees
+2019-09-16 12:01:51  [Portal_Test.MainTests] (main:) --	Showing 10 Employees
+2019-09-16 12:01:55  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 12:01:55  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 12:03:23  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 12:03:23  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 12:03:23  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 12:03:40  [Portal_Test.MainTests] (main:) ----------- 		Showing Employees
+2019-09-16 12:03:44  [Portal_Test.MainTests] (main:) --	Showing 100 Employees
+2019-09-16 12:03:47  [Portal_Test.MainTests] (main:) --	Showing 50 Employees
+2019-09-16 12:03:51  [Portal_Test.MainTests] (main:) --	Showing 25 Employees
+2019-09-16 12:03:54  [Portal_Test.MainTests] (main:) --	Showing 10 Employees
+2019-09-16 12:03:57  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 12:03:57  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 15:59:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 15:59:16  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 15:59:16  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 15:59:28  [Portal_Test.MainTests] (main:) ----------- 		Showing Assets
+2019-09-16 15:59:32  [Portal_Test.MainTests] (main:) --	Showing 100 Employees
+2019-09-16 15:59:35  [Portal_Test.MainTests] (main:) --	Showing 50 Employees
+2019-09-16 15:59:38  [Portal_Test.MainTests] (main:) --	Showing 25 Employees
+2019-09-16 15:59:42  [Portal_Test.MainTests] (main:) --	Showing 10 Employees
+2019-09-16 15:59:45  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 15:59:45  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 16:02:58  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 16:02:58  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 16:02:58  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 16:03:10  [Portal_Test.MainTests] (main:) ----------- 		Search for an Asset
+2019-09-16 16:03:17  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 16:03:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 16:07:54  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 16:07:54  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 16:07:54  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 16:08:06  [Portal_Test.MainTests] (main:) ----------- 		print Inventory & Stocking Report
+2019-09-16 16:08:10  [Portal_Test.MainTests] (main:) -- Report Printed
+2019-09-16 16:08:10  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 16:08:15  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 16:10:10  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 16:10:10  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 16:10:10  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 16:10:22  [Portal_Test.MainTests] (main:) ----------- 		print Groups Report
+2019-09-16 16:10:28  [Portal_Test.MainTests] (main:) -- Report Printed
+2019-09-16 16:10:28  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 16:10:32  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 16:16:18  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 16:16:18  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 16:16:18  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 16:16:29  [Portal_Test.MainTests] (main:) ----------- 		print Checklist Report
+2019-09-16 16:16:30  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 16:16:30  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 16:17:32  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 16:17:32  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 16:17:32  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 16:17:44  [Portal_Test.MainTests] (main:) ----------- 		print Checklist Report
+2019-09-16 16:17:44  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 16:17:49  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 16:19:03  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 16:19:03  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 16:19:03  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 16:19:14  [Portal_Test.MainTests] (main:) ----------- 		print Checklist Report
+2019-09-16 16:19:21  [Portal_Test.MainTests] (main:) -- Report Printed
+2019-09-16 16:19:21  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 16:19:25  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 16:27:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 16:27:36  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 16:27:36  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 16:27:47  [Portal_Test.MainTests] (main:) ----------- 		Search for Employee Inventory Comparison
+2019-09-16 16:27:51  [Portal_Test.MainTests] (main:) Search for inventory
+2019-09-16 16:27:55  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 16:27:55  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 16:29:16  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 16:29:16  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 16:29:16  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 16:29:27  [Portal_Test.MainTests] (main:) ----------- 		Print Inventory Comparison Report
+2019-09-16 16:29:37  [Portal_Test.MainTests] (main:) -- Report Printed
+2019-09-16 16:29:37  [Portal_Test.MainTests] (main:) ----------- 		Search for Employee Inventory Comparison
+2019-09-16 16:29:53  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 16:29:53  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 16:32:14  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 16:32:14  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 16:32:14  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 16:32:26  [Portal_Test.MainTests] (main:) ----------- 		Print Inventory Comparison Report
+2019-09-16 16:32:36  [Portal_Test.MainTests] (main:) -- Report Printed
+2019-09-16 16:32:36  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 16:32:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 16:36:07  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 16:36:07  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 16:36:07  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 16:36:18  [Portal_Test.MainTests] (main:) ----------- 		Showing Comparisons
+2019-09-16 16:36:23  [Portal_Test.MainTests] (main:) --	Showing 100 Employees
+2019-09-16 16:36:26  [Portal_Test.MainTests] (main:) --	Showing 50 Employees
+2019-09-16 16:36:29  [Portal_Test.MainTests] (main:) --	Showing 25 Employees
+2019-09-16 16:36:32  [Portal_Test.MainTests] (main:) --	Showing 10 Employees
+2019-09-16 16:36:35  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 16:36:36  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+2019-09-16 16:41:49  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2019-09-16 16:41:49  [Portal_Test.MainTests] (main:) TEST Has Started
+2019-09-16 16:41:49  [Portal_Test.MainTests] (main:) Open Web Application
+2019-09-16 16:42:00  [Portal_Test.MainTests] (main:) ----------- 		Showing Comparisons
+2019-09-16 16:42:04  [Portal_Test.MainTests] (main:) --	Showing 100 Employees
+2019-09-16 16:42:07  [Portal_Test.MainTests] (main:) --	Showing 50 Employees
+2019-09-16 16:42:10  [Portal_Test.MainTests] (main:) --	Showing 25 Employees
+2019-09-16 16:42:14  [Portal_Test.MainTests] (main:) --	Showing 10 Employees
+2019-09-16 16:42:17  [Portal_Test.MainTests] (main:) TEST PASSED
+2019-09-16 16:42:17  [Portal_Test.MainTests] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+

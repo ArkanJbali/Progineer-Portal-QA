@@ -15,7 +15,7 @@ import org.openqa.selenium.WebElement;
 public class CheckUsers {
 	
 private static WebElement element = null;
-	
+private static int twoSecond = 1000;
 	public static WebElement goToUsers(WebDriver driver) {
 		element = driver.findElement(By.xpath("/html/body/div[2]/div[1]/ul/li[3]"));
 		return element;
@@ -51,49 +51,49 @@ private static WebElement element = null;
 		for(int row = 1; row <= 8; row++) {
 			for(int column = 2; column <= 3 ; column++) {
 				if(column == 2) {
-					Thread.sleep(2000);
+					Thread.sleep(twoSecond);
 					currentPermission = getCurrentPermission(driver, row, column).getText().toString();
-					Thread.sleep(2000);
+					Thread.sleep(twoSecond);
 					if(!currentPermission.equals("")) {
 					if(!currentPermission.equals("Read Only")) {
-						Thread.sleep(2000);
+						Thread.sleep(twoSecond);
 						selectReadOnly(driver, row, column+1).click();
-						Thread.sleep(2000);
+						Thread.sleep(twoSecond);
 						pressUpdateButton(driver, row, column+1).click();
-						Thread.sleep(2000);
+						Thread.sleep(twoSecond);
 						if(isAlertPresent(driver)) {
 							Alert alert = (Alert) driver.switchTo().alert();  
 							alert.accept();
-							Thread.sleep(2000);
+							Thread.sleep(twoSecond);
 						}
 					}else if(!currentPermission.equals("Read & Write")) {
-						Thread.sleep(2000);
+						Thread.sleep(twoSecond);
 						selectReadWrite(driver, row, column+1).click();
-						Thread.sleep(2000);
+						Thread.sleep(twoSecond);
 						pressUpdateButton(driver, row, column+1).click();
-						Thread.sleep(2000);
+						Thread.sleep(twoSecond);
 						if(isAlertPresent(driver)) {
 							Alert alert = (Alert) driver.switchTo().alert();  
 							alert.accept();
-							Thread.sleep(2000);
+							Thread.sleep(twoSecond);
 						}
 					}else if(!currentPermission.equals("No Access")){
-						Thread.sleep(2000);
+						Thread.sleep(twoSecond);
 						selectNoAccess(driver, row, column+1).click();
-						Thread.sleep(2000);
+						Thread.sleep(twoSecond);
 						pressUpdateButton(driver, row, column+1).click();
-						Thread.sleep(2000);
+						Thread.sleep(twoSecond);
 						if(isAlertPresent(driver)) {
 							Alert alert = (Alert) driver.switchTo().alert();  
 							alert.accept();
-							Thread.sleep(2000);
+							Thread.sleep(twoSecond);
 						}
 					}
 					}
 					else {
 						continue;
 					}
-					Thread.sleep(2000);
+					Thread.sleep(twoSecond);
 					//System.out.println("i[" + i + "], j["+ j +"]");
 				}
 				
